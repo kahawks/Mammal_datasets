@@ -9,3 +9,7 @@ body_mass_brain_size and mammal_taxonomy both come from the Animal Traits databa
 https://animaltraits.org
 
 Herberstein, M. E., McLean, D. J., Lowe, E., Wolff, J. O., Khan, M. K., Smith, K., . . . Carthey, A. J. R. (2022). AnimalTraits - a curated animal trait database for body mass, metabolic rate and brain size. Scientific data, 9(1), 265. doi:10.1038/s41597-022-01364-9
+
+Gomez-Robles_2023_final_compilation comes from
+https://figshare.com/articles/dataset/The_evolution_of_human_altriciality_and_brain_development_in_comparative_context/22242724?file=42254952
+Gomez-Robles, Aida (2023). The evolution of human altriciality and brain development in comparative context. figshare. Dataset. https://doi.org/10.6084/m9.figshare.22242724.v1
