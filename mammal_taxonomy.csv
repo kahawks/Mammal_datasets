@@ -1,677 +1,270 @@
-Order,Family,Genus,Species,Species_epithet
-Diprotodontia,Acrobatidae,Acrobates,Acrobates pygmaeus,pygmaeus
-Diprotodontia,Acrobatidae,Distoechurus,Distoechurus pennatus,pennatus
-Carnivora,Ailuridae,Ailurus,Ailurus fulgens,fulgens
-Primates,Aotidae,Aotus,Aotus trivirgatus,trivirgatus
-Rodentia,Aplodontiidae,Aplodontia,Aplodontia rufa,rufa
-Primates,Atelidae,Alouatta,Alouatta palliata,palliata
-Primates,Atelidae,Ateles,Ateles geoffroyi,geoffroyi
-Primates,Atelidae,Ateles,Ateles paniscus,paniscus
-Primates,Atelidae,Alouatta,Alouatta caraya,caraya
-Primates,Atelidae,Lagothrix,Lagothrix lagothricha,lagothricha
-Primates,Atelidae,Ateles,Ateles dariensis,dariensis
-Rodentia,Bathyergidae,Fukomys,Fukomys mechowi,mechowi
-Rodentia,Bathyergidae,Georychus,Georychus capensis,capensis
-Rodentia,Bathyergidae,Cryptomys,Cryptomys sp.,sp.
-Rodentia,Bathyergidae,Fukomys,Fukomys damarensis,damarensis
-Artiodactyla,Bovidae,Boselaphus,Boselaphus tragocamelus,tragocamelus
-Artiodactyla,Bovidae,Capra,Capra aegagrus,aegagrus
-Artiodactyla,Bovidae,Bos,Bos taurus,taurus
-Artiodactyla,Bovidae,Bison,Bison bison,bison
-Artiodactyla,Bovidae,Syncerus,Syncerus caffer,caffer
-Artiodactyla,Bovidae,Tragelaphus,Tragelaphus sylvaticus,sylvaticus
-Artiodactyla,Bovidae,Madoqua,Madoqua kirkii,kirkii
-Artiodactyla,Bovidae,Raphicerus,Raphicerus campestris,campestris
-Artiodactyla,Bovidae,Cephalophus,Cephalophus monticola,monticola
-Artiodactyla,Bovidae,Oreamnos,Oreamnos americanus,americanus
-Cetartiodactyla,Bovidae,Damaliscus,Damaliscus pygargus,pygargus
-Cetartiodactyla,Bovidae,Tragelaphus,Tragelaphus eurycerus,eurycerus
-Pilosa,Bradypodidae,Bradypus,Bradypus tridactylus,tridactylus
-Pilosa,Bradypodidae,Bradypus,Bradypus griseus,griseus
-Diprotodontia,Burramyidae,Cercartetus,Cercartetus concinnus,concinnus
-Diprotodontia,Burramyidae,Cercartetus,Cercartetus lepidus,lepidus
-Diprotodontia,Burramyidae,Cercartetus,Cercartetus nanus,nanus
-Diprotodontia,Burramyidae,Cercartetus,Cercartetus caudatus,caudatus
-Diprotodontia,Burramyidae,Burramys,Burramys parvus,parvus
-Paucituberculata,Caenolestidae,Rhyncholestes,Rhyncholestes raphanurus,raphanurus
-Paucituberculata,Caenolestidae,Caenolestes,Caenolestes fuliginosus,fuliginosus
-Primates,Callitrichidae,Saguinus,Saguinus oedipus,oedipus
-Primates,Callitrichidae,Cebuella,Cebuella pygmaea,pygmaea
-Artiodactyla,Camelidae,Lama,Lama glama,glama
-Carnivora,Canidae,Canis,Canis mesomelas,mesomelas
-Carnivora,Canidae,Vulpes,Vulpes vulpes,vulpes
-Carnivora,Canidae,Canis,Canis latrans,latrans
-Carnivora,Canidae,Canis,Canis familiaris,familiaris
-Carnivora,Canidae,Otocyon,Otocyon megalotis,megalotis
-Carnivora,Canidae,Urocyon,Urocyon cinereoargenteus,cinereoargenteus
-Carnivora,Canidae,Vulpes,Vulpes fulva,fulva
-Carnivora,Canidae,Vulpes,Vulpes lagopus,lagopus
-Carnivora,Canidae,Canis,Canis lupus,lupus
-Carnivora,Canidae,Canis,Canis lubilus,lubilus
-Carnivora,Canidae,Cerdocyon,Cerdocyon thous,thous
-Carnivora,Canidae,Vulpes,Vulpes zerda,zerda
-Rodentia,Capromyidae,Capromys,Capromys pilorides,pilorides
-Rodentia,Castoridae,Castor,Castor canadensis,canadensis
-Rodentia,Caviidae,Dolichotis,Dolichotis patagonum,patagonum
-Rodentia,Caviidae,Cavia,Cavia porcellus,porcellus
-Rodentia,Caviidae,Cavia,Cavia apera,apera
-Rodentia,Caviidae,Hydrochoerus,Hydrochoerus isthmius,isthmius
-Rodentia,Caviidae,Kerodon,Kerodon rupestris,rupestris
-Rodentia,Caviidae,Dolichotis,Dolichotis salinicola,salinicola
-Rodentia,Caviidae,Hydrochaeris,Hydrochaeris hydrochaeris,hydrochaeris
-Primates,Cebidae,Saimiri,Saimiri sciureus,sciureus
-Primates,Cebidae,Cebus,Cebus albifrons,albifrons
-Primates,Cebidae,Cebus,Cebus apella,apella
-Primates,Cebidae,Saguinus,Saguinus oedipus,oedipus
-Primates,Cebidae,Saguinus,Saguinus geoffroyi,geoffroyi
-Primates,Cebidae,Saimiri,Saimiri boliviensis,boliviensis
-Primates,Cebidae,Leontopithecus,Leontopithecus rosalia,rosalia
-Primates,Cebidae,Callithrix,Callithrix pygmaea,pygmaea
-Primates,Cebidae,Cebus,Cebus capucinus,capucinus
-Primates,Cebidae,Cebus,Cebus olivaceus,olivaceus
-Primates,Cebidae,Sapajus,Sapajus libidinosus,libidinosus
-Primates,Cebidae,Callithrix,Callithrix jacchus,jacchus
-Primates,Cebidae,Midas,Midas ursulus,ursulus
-Primates,Cebidae,Saimiri,Saimiri oerstedii,oerstedii
-Primates,Cercopithecidae,Chlorocebus,Chlorocebus aethiops,aethiops
-Primates,Cercopithecidae,Macaca,Macaca fascicularis,fascicularis
-Primates,Cercopithecidae,Macaca,Macaca mulatta,mulatta
-Primates,Cercopithecidae,Macaca,Macaca arctoides,arctoides
-Primates,Cercopithecidae,Papio,Papio anubis,anubis
-Primates,Cercopithecidae,Cercocebus,Cercocebus agilis,agilis
-Primates,Cercopithecidae,Mandrillus,Mandrillus sphinx,sphinx
-Primates,Cercopithecidae,Trachypithecus,Trachypithecus francoisi,francoisi
-Primates,Cercopithecidae,Colobus,Colobus guereza,guereza
-Primates,Cercopithecidae,Colobus,Colobus angolensis,angolensis
-Primates,Cercopithecidae,Macaca,Macaca maura,maura
-Primates,Cercopithecidae,Erythrocebus,Erythrocebus patas,patas
-Primates,Cercopithecidae,Semnopithecus,Semnopithecus entellus,entellus
-Primates,Cercopithecidae,Cercopithecus,Cercopithecus callitrichus,callitrichus
-Primates,Cercopithecidae,Cercopithecus,Cercopithecus griseoviridis,griseoviridis
-Primates,Cercopithecidae,Cercopithecus,Cercopithecus cynosurus,cynosurus
-Primates,Cercopithecidae,Cercopithecus,Cercopithecus sabaeus,sabaeus
-Primates,Cercopithecidae,Cercopithecus,Cercopithecus rufoviridis,rufoviridis
-Primates,Cercopithecidae,Papio,Papio cynocephalus,cynocephalus
-Primates,Cercopithecidae,Cercocebus,Cercocebus fuliginosus,fuliginosus
-Primates,Cercopithecidae,Macaca,Macaca pileatus,pileatus
-Primates,Cercopithecidae,Macaca,Macaca sylvanus,sylvanus
-Primates,Cercopithecidae,Macaca,Macaca rhesus,rhesus
-Primates,Cercopithecidae,Macaca,Macaca assamensis,assamensis
-Primates,Cercopithecidae,Macaca,Macaca leonina,leonina
-Primates,Cercopithecidae,Macaca,Macaca nemestrina,nemestrina
-Primates,Cercopithecidae,Cercopithecus,Cercopithecus mitis,mitis
-Primates,Cercopithecidae,Macacus,Macacus mulatta,mulatta
-Primates,Cercopithecidae,Cercopithecus,Cercopithecus sp.,sp.
-Primates,Cercopithecidae,Cercopithecus,Cercopithecus aethiops,aethiops
-Artiodactyla,Cervidae,Cervus,Cervus canadensis,canadensis
-Artiodactyla,Cervidae,Odocoileus,Odocoileus hemionus,hemionus
-Artiodactyla,Cervidae,Rusa,Rusa timorensis,timorensis
-Artiodactyla,Cervidae,Rangifer,Rangifer tarandus,tarandus
-Peramelemorphia,Chaeropodidae,Chaeropus,Chaeropus ecaudatus,ecaudatus
-Primates,Cheirogaleidae,Cheirogaleus,Cheirogaleus medius,medius
-Primates,Cheirogaleidae,Cheirogaleus,Cheirogaleus major,major
-Primates,Cheirogaleidae,Microcebus,Microcebus murinus,murinus
-Rodentia,Chinchillidae,Lagidium,Lagidium viscacia,viscacia
-Rodentia,Chinchillidae,Chinchilla,Chinchilla lanigera,lanigera
-Cingulata,Chlamyphoridae,Euphractus,Euphractus sexcinctus,sexcinctus
-Cingulata,Chlamyphoridae,Tolypeutes,Tolypeutes matacus,matacus
-Cingulata,Chlamyphoridae,Zaedyus,Zaedyus pichiy,pichiy
-Afrosoricida,Chrysochloridae,Chrysochloris,Chrysochloris asiatica,asiatica
-Afrosoricida,Chrysochloridae,Chrysochloris,Chrysochloris stuhlmanni,stuhlmanni
-Afrosoricida,Chrysochloridae,Eremitalpa,Eremitalpa granti,granti
-Rodentia,Cricetidae,Cricetus,Cricetus cricetus,cricetus
-Rodentia,Cricetidae,Lemmus,Lemmus trimucronatus,trimucronatus
-Rodentia,Cricetidae,Dicrostonyx,Dicrostonyx groenlandicus,groenlandicus
-Rodentia,Cricetidae,Microtus,Microtus drummondi,drummondi
-Rodentia,Cricetidae,Microtus,Microtus pennsylvanicus,pennsylvanicus
-Rodentia,Cricetidae,Peromyscus,Peromyscus sp.,sp.
-Rodentia,Cricetidae,Ondatra,Ondatra zibethicus,zibethicus
-Rodentia,Cricetidae,Neotoma,Neotoma sp.,sp.
-Rodentia,Cricetidae,Microtus,Microtus nivalis,nivalis
-Rodentia,Cricetidae,Myopus,Myopus schisticolor,schisticolor
-Rodentia,Cricetidae,Microtus,Microtus breweri,breweri
-Rodentia,Cricetidae,Microtus,Microtus oeconomus,oeconomus
-Rodentia,Cricetidae,Abrothrix,Abrothrix andinus,andinus
-Rodentia,Cricetidae,Abrothrix,Abrothrix longipilis,longipilis
-Rodentia,Cricetidae,Abrothrix,Abrothrix olivaceus,olivaceus
-Rodentia,Cricetidae,Auliscomys,Auliscomys boliviensis,boliviensis
-Rodentia,Cricetidae,Auliscomys,Auliscomys micropus,micropus
-Rodentia,Cricetidae,Eligmodontia,Eligmodontia typus,typus
-Rodentia,Cricetidae,Oryzomys,Oryzomys longicaudatus,longicaudatus
-Rodentia,Cricetidae,Phyllotis,Phyllotis darwini,darwini
-Rodentia,Cricetidae,Peromyscus,Peromyscus pirrensis,pirrensis
-Rodentia,Cricetidae,Ochrotomys,Ochrotomys nuttalli,nuttalli
-Rodentia,Cricetidae,Phyllotis,Phyllotis rupestris,rupestris
-Rodentia,Cricetidae,Phyllotis,Phyllotis magister,magister
-Rodentia,Cricetidae,Oxymycterus,Oxymycterus roberti,roberti
-Rodentia,Cricetidae,Clethrionomys,Clethrionomys californicus,californicus
-Rodentia,Cricetidae,Phenacomys,Phenacomys intermedius,intermedius
-Rodentia,Cricetidae,Arborimus,Arborimus longicaudus,longicaudus
-Rodentia,Cricetidae,Clethrionomys,Clethrionomys gapperi,gapperi
-Rodentia,Cricetidae,Microtus,Microtus pinetorum,pinetorum
-Rodentia,Cricetidae,Microtus,Microtus longicaudus,longicaudus
-Rodentia,Cricetidae,Lagurus,Lagurus curtatus,curtatus
-Rodentia,Cricetidae,Microtus,Microtus montanus,montanus
-Rodentia,Cricetidae,Lemmus,Lemmus sibiricus,sibiricus
-Rodentia,Cricetidae,Microtus,Microtus xanthognathus,xanthognathus
-Rodentia,Cricetidae,Arvicola,Arvicola richardsoni,richardsoni
-Rodentia,Cricetidae,Neofiber,Neofiber alleni,alleni
-Rodentia,Cuniculidae,Cuniculus,Cuniculus paca,paca
-Rodentia,Cuniculidae,Agouti,Agouti paca,paca
-Pilosa,Cyclopedidae,Cyclopes,Cyclopes didactylus,didactylus
-Cingulata,Dasypodidae,Dasypus,Dasypus novemcinctus,novemcinctus
-Rodentia,Dasyproctidae,Dasyprocta,Dasyprocta punctata,punctata
-Rodentia,Dasyproctidae,Myoprocta,Myoprocta acouchy,acouchy
-Rodentia,Dasyproctidae,Dasyprocta,Dasyprocta leporina,leporina
-Rodentia,Dasyproctidae,Dasyprocta,Dasyprocta azarae,azarae
-Dasyuromorphia,Dasyuridae,Dasyurus,Dasyurus spartacus,spartacus
-Dasyuromorphia,Dasyuridae,Planigale,Planigale tenuirostris,tenuirostris
-Dasyuromorphia,Dasyuridae,Planigale,Planigale ingrami,ingrami
-Dasyuromorphia,Dasyuridae,Planigale,Planigale gilesi,gilesi
-Dasyuromorphia,Dasyuridae,Planigale,Planigale maculata,maculata
-Dasyuromorphia,Dasyuridae,Ningaui,Ningaui ridei,ridei
-Dasyuromorphia,Dasyuridae,Ningaui,Ningaui yvonneae,yvonneae
-Dasyuromorphia,Dasyuridae,Planigale,Planigale novaeguineae,novaeguineae
-Dasyuromorphia,Dasyuridae,Sminthopsis,Sminthopsis virginiae,virginiae
-Dasyuromorphia,Dasyuridae,Sminthopsis,Sminthopsis bindi,bindi
-Dasyuromorphia,Dasyuridae,Sminthopsis,Sminthopsis douglasi,douglasi
-Dasyuromorphia,Dasyuridae,Sminthopsis,Sminthopsis crassicaudata,crassicaudata
-Dasyuromorphia,Dasyuridae,Sminthopsis,Sminthopsis macroura,macroura
-Dasyuromorphia,Dasyuridae,Sminthopsis,Sminthopsis hirtipes,hirtipes
-Dasyuromorphia,Dasyuridae,Sminthopsis,Sminthopsis leucopus,leucopus
-Dasyuromorphia,Dasyuridae,Parantechinus,Parantechinus roryi,roryi
-Dasyuromorphia,Dasyuridae,Sminthopsis,Sminthopsis murina,murina
-Dasyuromorphia,Dasyuridae,Antechinomys,Antechinomys laniger,laniger
-Dasyuromorphia,Dasyuridae,Sminthopsis,Sminthopsis griseoventer,griseoventer
-Dasyuromorphia,Dasyuridae,Parantechinus,Parantechinus macdonnellensis,macdonnellensis
-Dasyuromorphia,Dasyuridae,Parantechinus,Parantechinus rosamondae,rosamondae
-Dasyuromorphia,Dasyuridae,Antechinus,Antechinus agilis,agilis
-Dasyuromorphia,Dasyuridae,Antechinus,Antechinus bellus,bellus
-Dasyuromorphia,Dasyuridae,Antechinus,Antechinus flavipes,flavipes
-Dasyuromorphia,Dasyuridae,Parantechinus,Parantechinus bilarni,bilarni
-Dasyuromorphia,Dasyuridae,Antechinus,Antechinus melanurus,melanurus
-Dasyuromorphia,Dasyuridae,Antechinus,Antechinus subtropicus,subtropicus
-Dasyuromorphia,Dasyuridae,Antechinus,Antechinus minimus,minimus
-Dasyuromorphia,Dasyuridae,Antechinus,Antechinus leo,leo
-Dasyuromorphia,Dasyuridae,Antechinus,Antechinus stuartii,stuartii
-Dasyuromorphia,Dasyuridae,Antechinus,Antechinus naso,naso
-Dasyuromorphia,Dasyuridae,Phascogale,Phascogale calura,calura
-Dasyuromorphia,Dasyuridae,Antechinus,Antechinus swainsonii,swainsonii
-Dasyuromorphia,Dasyuridae,Murexia,Murexia rothschildi,rothschildi
-Dasyuromorphia,Dasyuridae,Phascolosorex,Phascolosorex dorsalis,dorsalis
-Dasyuromorphia,Dasyuridae,Parantechinus,Parantechinus apicalis,apicalis
-Dasyuromorphia,Dasyuridae,Dasycercus,Dasycercus cristicauda,cristicauda
-Dasyuromorphia,Dasyuridae,Dasyuroides,Dasyuroides byrnei,byrnei
-Dasyuromorphia,Dasyuridae,Murexia,Murexia longicaudata,longicaudata
-Dasyuromorphia,Dasyuridae,Phascogale,Phascogale tapoatafa,tapoatafa
-Dasyuromorphia,Dasyuridae,Myoictis,Myoictis melas,melas
-Dasyuromorphia,Dasyuridae,Neophascogale,Neophascogale lorentzi,lorentzi
-Dasyuromorphia,Dasyuridae,Dasyurus,Dasyurus hallucatus,hallucatus
-Dasyuromorphia,Dasyuridae,Dasyurus,Dasyurus albopunctatus,albopunctatus
-Dasyuromorphia,Dasyuridae,Dasyurus,Dasyurus geoffroii,geoffroii
-Dasyuromorphia,Dasyuridae,Dasyurus,Dasyurus viverrinus,viverrinus
-Dasyuromorphia,Dasyuridae,Dasyurus,Dasyurus maculatus,maculatus
-Dasyuromorphia,Dasyuridae,Sarcophilus,Sarcophilus harrisii,harrisii
-Dasyuromorphia,Dasyuridae,Antechinus,Antechinus wilhelmina,wilhelmina
-Primates,Daubentoniidae,Daubentonia,Daubentonia madagascariensis,madagascariensis
-Chiroptera,Desmodontidae,Diaemus,Diaemus youngi,youngi
-Chiroptera,Desmodontidae,Diaemus,Diaemus rotundus,rotundus
-Didelphimorphia,Didelphidae,Thylamys,Thylamys pallidior,pallidior
-Didelphimorphia,Didelphidae,Marmosa,Marmosa elegans,elegans
-Didelphimorphia,Didelphidae,Thylamys,Thylamys elegans,elegans
-Didelphimorphia,Didelphidae,Monodelphis,Monodelphis brevicaudata,brevicaudata
-Didelphimorphia,Didelphidae,Marmosa,Marmosa mexicana,mexicana
-Didelphimorphia,Didelphidae,Marmosa,Marmosa murina,murina
-Didelphimorphia,Didelphidae,Marmosa,Marmosa rubra,rubra
-Didelphimorphia,Didelphidae,Caluromys,Caluromys derbianus,derbianus
-Didelphimorphia,Didelphidae,Caluromys,Caluromys philander,philander
-Didelphimorphia,Didelphidae,Metachirus,Metachirus nudicaudatus,nudicaudatus
-Didelphimorphia,Didelphidae,Philander,Philander opossum,opossum
-Didelphimorphia,Didelphidae,Didelphis,Didelphis marsupialis,marsupialis
-Didelphimorphia,Didelphidae,Didelphis,Didelphis virginiana,virginiana
-Didelphimorphia,Didelphidae,Marmosa,Marmosa mitis,mitis
-Rodentia,Dipodidae,Allactaga,Allactaga saliens,saliens
-Rodentia,Dipodidae,Jaculus,Jaculus orientalis,orientalis
-Rodentia,Dipodidae,Zapus,Zapus hudsonicus,hudsonicus
-Rodentia,Dipodidae,Zapus,Zapus hudsonius,hudsonius
-Rodentia,Echimyidae,Clyomys,Clyomys laticeps,laticeps
-Rodentia,Echimyidae,Echimys,Echimys chrysurus,chrysurus
-Rodentia,Echimyidae,Makalata,Makalata didelphoides,didelphoides
-Rodentia,Echimyidae,Makalata,Makalata macrura,macrura
-Rodentia,Echimyidae,Mesomys,Mesomys hispidus,hispidus
-Rodentia,Echimyidae,Proechimys,Proechimys brevicauda,brevicauda
-Rodentia,Echimyidae,Trichomys,Trichomys apereoides,apereoides
-Chiroptera,Emballonuridae,Rhynchonycteris,Rhynchonycteris naso,naso
-Chiroptera,Emballonuridae,Saccopteryx,Saccopteryx bilineata,bilineata
-Chrioptera,Emballonuridae,Peropteryx,Peropteryx macrotis,macrotis
-Perissodactyla,Equidae,Equus,Equus Asinus,Asinus
-Rodentia,Erethizontidae,Coendou,Coendou prehensilis,prehensilis
-Rodentia,Erethizontidae,Coendou,Coendou rothschildi,rothschildi
-Rodentia,Erethizontidae,Sphiggurus,Sphiggurus vestitus,vestitus
-Rodentia,Erethizontidae,Erethizon,Erethizon dorsatum,dorsatum
-Eulipotyphla,Erinaceidae,Atelerix,Atelerix albiventris,albiventris
-Eulipotyphla,Erinaceidae,Echinosorex,Echinosorex gymnura,gymnura
-Eulipotyphla,Erinaceidae,Mesechinus,Mesechinus dauuricus,dauuricus
-Eulipotyphla,Erinaceidae,Erinaceus,Erinaceus europaeus,europaeus
-Eulipotyphla,Erinaceidae,Erinaceus,Erinaceus concolor,concolor
-Eulipotyphla,Erinnaceidae,Hylomys,Hylomys sulillus,sulillus
-Carnivora,Eupleridae,Cryptoprocta,Cryptoprocta ferox,ferox
-Carnivora,Felidae,Panthera,Panthera tigris,tigris
-Carnivora,Felidae,Caracal,Caracal caracal,caracal
-Carnivora,Felidae,Felis,Felis silvestris,silvestris
-Carnivora,Felidae,Panthera,Panthera leo,leo
-Carnivora,Felidae,Felis,Felis silestris,silestris
-Carnivora,Felidae,Acinonyx,Acinonyx jubatus,jubatus
-Carnivora,Felidae,Panthera,Panthera onca,onca
-Carnivora,Felidae,Panthera,Panthera pardus,pardus
-Carnivora,Felidae,Puma,Puma concolor,concolor
-Carnivora,Felidae,Leptailurus,Leptailurus serval,serval
-Primates,Galagidae,Galagoides,Galagoides demidovii,demidovii
-Primates,Galagidae,Galagoides,Galagoides senegalensis,senegalensis
-Primates,Galagidae,Galagoides,Galagoides crassicaudatus,crassicaudatus
-Primates,Galagidae,Galago,Galago senegalensis,senegalensis
-Rodentia,Geomyidae,Thomomys,Thomomys sp.,sp.
-Rodentia,Geomyidae,Geomys,Geomys bursarius,bursarius
-Rodentia,Gliridae,Glis,Glis glis,glis
-Rodentia,Gliridae,Muscardinus,Muscardinus avellanarius,avellanarius
-Carnivora,Herpestidae,Atilax,Atilax paludinosus,paludinosus
-Carnivora,Herpestidae,Herpestes,Herpestes urva,urva
-Carnivora,Herpestidae,Paracynictis,Paracynictis selousi,selousi
-Carnivora,Herpestidae,Herpestes,Herpestes smithii,smithii
-Carnivora,Herpestidae,Ichneumia,Ichneumia albicauda,albicauda
-Carnivora,Herpestidae,Herpestes,Herpestes auropunctatus,auropunctatus
-Carnivora,Herpestidae,Galerella,Galerella sanguinea,sanguinea
-Dasyuromorphia,Herpestidae,Mungos,Mungos mungo,mungo
-Rodentia,Heteromyidae,Perognathus,Perognathus longimembris,longimembris
-Rodentia,Heteromyidae,Perognathus,Perognathus hispidus,hispidus
-Rodentia,Heteromyodae,Perognathus,Perognathus californicus,californicus
-Chiroptera,Hipposideridae,Hipposideros,Hipposideros bicolor,bicolor
-Chiroptera,Hipposideridae,Hipposideros,Hipposideros caffer,caffer
-Chiroptera,Hipposideridae,Rhinonicteris,Rhinonicteris aurantia,aurantia
-Primates,Hominidae,Pan,Pan troglodytes,troglodytes
-Primates,Hominidae,Pongo,Pongo pygmaeus,pygmaeus
-Primates,Hominidae,Gorilla,Gorilla gorilla,gorilla
-Primates,Hominidae,Homo,Homo sapiens,sapiens
-Carnivora,Hyaenidae,Crocuta,Crocuta crocuta,crocuta
-Carnivora,Hyaenidae,Proteles,Proteles cristata,cristata
-Primates,Hylobatidae,Hylobates,Hylobates muelleri,muelleri
-Primates,Hylobatidae,Hylobates,Hylobates syndactylus,syndactylus
-Rodentia,Hystricidae,Atherurus,Atherurus macrourus,macrourus
-Rodentia,Hystricidae,Hystrix,Hystrix africaeaustralis,africaeaustralis
-Rodentia,Hystricidae,Hystrix,Hystrix brachyura,brachyura
-Rodentia,Hystricidae,Hystrix,Hystrix cristata,cristata
-Rodentia,Hystricidae,Hystrix,Hystrix indica,indica
-Rodentia,Hystricidae,Hystrix,Hystrix sumatrae,sumatrae
-Rodentia,Hystricidae,Trichys,Trichys fasciculata,fasciculata
-Rodentia,Hystricidae,Atherurus,Atherurus africanus,africanus
-Primates,Indriidae,Avahi,Avahi occidentalis,occidentalis
-Primates,Indriidae,Avahi,Avahi laniger,laniger
-Primates,Indriidae,Propithecus,Propithecus coquereli,coquereli
-Primates,Indriidae,Indri,Indri indri,indri
-Primates,Indriidae,Propithecus,Propithecus coronatus,coronatus
-Primates,Lemuridae,Lemur,Lemur catta,catta
-Primates,Lemuridae,Prolemur,Prolemur simus,simus
-Primates,Lemuridae,Eulemur,Eulemur fulvus,fulvus
-Primates,Lemuridae,Eulemur,Eulemur albifrons,albifrons
-Primates,Lemuridae,Eulemur,Eulemur rufiventer,rufiventer
-Primates,Lemuridae,Eulemur,Eulemur mongoz,mongoz
-Primates,Lemuridae,Eulemur,Eulemur catta,catta
-Primates,Lemuridae,Eulemur,Eulemur macaco,macaco
-Primates,Lemuridae,Eulemur,Eulemur variegatus,variegatus
-Primates,Lemuridae,Eulemur,Eulemur rufriventer,rufriventer
-Primates,Lepilemuridae,Lepilemur,Lepilemur ruficaudatus,ruficaudatus
-Lagomorpha,Leporidae,Lepus,Lepus europaeus,europaeus
-Lagomorpha,Leporidae,Oryctolagus,Oryctolagus cuniculus,cuniculus
-Lagomorpha,Leporidae,Lepus,Lepus capensis,capensis
-Lagomorpha,Leporidae,Lepus,Lepus arcticus,arcticus
-Lagomorpha,Leporidae,Sylvilagus,Sylvilagus audubonii,audubonii
-Lagomorpha,Leporidae,Lepus,Lepus sp.,sp.
-Lagomorpha,Leporidae,Lepus,Lepus californicus,californicus
-Lagomorpha,Leporidae,Sylvilagus,Sylvilagus gabbi,gabbi
-Primates,Lorisidae,Nycticebus,Nycticebus pygmaeus,pygmaeus
-Primates,Lorisidae,Nycticebus,Nycticebus coucang,coucang
-Primates,Lorisidae,Perodicticus,Perodicticus potto,potto
-Primates,Lorisidae,Loris,Loris tardigradus,tardigradus
-Primates,Lorisidae,Nycticebus,Nycticebus tardigradus,tardigradus
-Diprotodontia,Macropodidae,Macropus,Macropus parma,parma
-Diprotodontia,Macropodidae,Wallabia,Wallabia bicolor,bicolor
-Diprotodontia,Macropodidae,Lagostrophus,Lagostrophus fasciatus,fasciatus
-Diprotodontia,Macropodidae,Lagorchestes,Lagorchestes hirsutus,hirsutus
-Diprotodontia,Macropodidae,Onychogalea,Onychogalea lunata,lunata
-Diprotodontia,Macropodidae,Petrogale,Petrogale concinna,concinna
-Diprotodontia,Macropodidae,Dorcopsulus,Dorcopsulus vanheurni,vanheurni
-Diprotodontia,Macropodidae,Lagorchestes,Lagorchestes leporides,leporides
-Diprotodontia,Macropodidae,Dorcopsulus,Dorcopsulus macleayi,macleayi
-Diprotodontia,Macropodidae,Setonix,Setonix brachyurus,brachyurus
-Diprotodontia,Macropodidae,Lagorchestes,Lagorchestes conspicillatus,conspicillatus
-Diprotodontia,Macropodidae,Onychogalea,Onychogalea fraenata,fraenata
-Diprotodontia,Macropodidae,Petrogale,Petrogale brachyotis,brachyotis
-Diprotodontia,Macropodidae,Dorcopsis,Dorcopsis atrata,atrata
-Diprotodontia,Macropodidae,Onychogalea,Onychogalea unguifera,unguifera
-Diprotodontia,Macropodidae,Petrogale,Petrogale mareeba,mareeba
-Diprotodontia,Macropodidae,Petrogale,Petrogale inornata,inornata
-Diprotodontia,Macropodidae,Thylogale,Thylogale brunii,brunii
-Diprotodontia,Macropodidae,Petrogale,Petrogale assimilis,assimilis
-Diprotodontia,Macropodidae,Thylogale,Thylogale stigmatica,stigmatica
-Diprotodontia,Macropodidae,Petrogale,Petrogale godmani,godmani
-Diprotodontia,Macropodidae,Thylogale,Thylogale browni,browni
-Diprotodontia,Macropodidae,Dendrolagus,Dendrolagus bennettianus,bennettianus
-Diprotodontia,Macropodidae,Petrogale,Petrogale lateralis,lateralis
-Diprotodontia,Macropodidae,Thylogale,Thylogale thetis,thetis
-Diprotodontia,Macropodidae,Dorcopsis,Dorcopsis muelleri,muelleri
-Diprotodontia,Macropodidae,Dorcopsis,Dorcopsis luctuosa,luctuosa
-Diprotodontia,Macropodidae,Petrogale,Petrogale herberti,herberti
-Diprotodontia,Macropodidae,Petrogale,Petrogale persephone,persephone
-Diprotodontia,Macropodidae,Thylogale,Thylogale billardieri,billardieri
-Diprotodontia,Macropodidae,Dorcopsis,Dorcopsis hageni,hageni
-Diprotodontia,Macropodidae,Petrogale,Petrogale xanthopus,xanthopus
-Diprotodontia,Macropodidae,Macropus,Macropus eugenii,eugenii
-Diprotodontia,Macropodidae,Petrogale,Petrogale penicillata,penicillata
-Diprotodontia,Macropodidae,Macropus,Macropus irma,irma
-Diprotodontia,Macropodidae,Macropus,Macropus greyi,greyi
-Diprotodontia,Macropodidae,Dendrolagus,Dendrolagus lumholtzi,lumholtzi
-Diprotodontia,Macropodidae,Dendrolagus,Dendrolagus ursinus,ursinus
-Diprotodontia,Macropodidae,Dendrolagus,Dendrolagus matschiei,matschiei
-Diprotodontia,Macropodidae,Dendrolagus,Dendrolagus goodfellowi,goodfellowi
-Diprotodontia,Macropodidae,Dendrolagus,Dendrolagus spadix,spadix
-Diprotodontia,Macropodidae,Dendrolagus,Dendrolagus scottae,scottae
-Diprotodontia,Macropodidae,Macropus,Macropus dorsalis,dorsalis
-Diprotodontia,Macropodidae,Dendrolagus,Dendrolagus inustus,inustus
-Diprotodontia,Macropodidae,Dendrolagus,Dendrolagus dorianus,dorianus
-Diprotodontia,Macropodidae,Macropus,Macropus agilis,agilis
-Diprotodontia,Macropodidae,Macropus,Macropus rufogriseus,rufogriseus
-Diprotodontia,Macropodidae,Macropus,Macropus parryi,parryi
-Diprotodontia,Macropodidae,Macropus,Macropus antilopinus,antilopinus
-Diprotodontia,Macropodidae,Macropus,Macropus fuliginosus,fuliginosus
-Diprotodontia,Macropodidae,Macropus,Macropus robustus,robustus
-Diprotodontia,Macropodidae,Macropus,Macropus rufus,rufus
-Diprotodontia,Macropodidae,Macropus,Macropus giganteus,giganteus
-Diprotodontia,Macropodidae,Petrogale,Petrogale venusta,venusta
-Macroscelidae,Macroscelididae,Elephantulus,Elephantulus rufescens,rufescens
-Macroscelidea,Macroscelididae,Rhynchocyon,Rhynchocyon petersi,petersi
-Macroscelidea,Macroscelididae,Elephantulus,Elephantulus fuscipes,fuscipes
-Macroscelidea,Macroscelididae,Rhynchocyon,Rhynchocyon stuhlmanni,stuhlmanni
-Macroscelidea,Macroscelididae,Elephantulus,Elephantulus rozeti,rozeti
-Macroscelidea,Macroscelididae,Elephantulus,Elephantulus myurus,myurus
-Macroscelidea,Macroscelididae,Macroscelides,Macroscelides proboscideus,proboscideus
-Macroscelidea,Macroscelididae,Petrodromus,Petrodromus tetradactylus,tetradactylus
-Macroscelidea,Macroscelididae,Elephantulus,Elephantulus intufi,intufi
-Macroscelidea,Macroscelididae,Elephantulus,Elephantulus brachyrhynchus,brachyrhynchus
-Pholidota,Manidae,Manis,Manis pentadactyla,pentadactyla
-Pholidota,Manidae,Manis,Manis tricuspis,tricuspis
-Phollidota,Manidae,Manis,Manis javanica,javanica
-Chiroptera,Megadermatidae,Macroderma,Macroderma gigas,gigas
-Pilosa,Megalonychidae,Choloepus,Choloepus hoffmanni,hoffmanni
-Xenarthra,Megalonychidae,Choloepus,Choloepus didactylus,didactylus
-Carnivora,Mephitidae,Mephitis,Mephitis mephitis,mephitis
-Carnivora,Mephitidae,Mydaus,Mydaus marchei,marchei
-Carnivora,Mephitidae,Spilogale,Spilogale gracilis,gracilis
-Carnivora,Mephitidae,Spilogale,Spilogale putorius,putorius
-Carnivora,Mephitidae,Conepatus,Conepatus mesoleucus,mesoleucus
-Microbiotheria,Microbiotheriidae,Dromiciops,Dromiciops gliroides,gliroides
-Chiroptera,Miniopteridae,Miniopterus,Miniopterus schreibersii,schreibersii
-Chiroptera,Miniopteridae,Miniopterus,Miniopterus gigas,gigas
-Chiroptera,Molossidae,Tadarida,Tadarida albiventer,albiventer
-Chiroptera,Molossidae,Chaerophon,Chaerophon limbatus,limbatus
-Chiroptera,Molossidae,Chaerophon,Chaerophon Ieucostigma,Ieucostigma
-Chiroptera,Molossidae,Molossus,Molossus major,major
-Chiroptera,Molossidae,Molossus,Molossus ate,ate
-Rodentia,Muridae,Rattus,Rattus norvegicus,norvegicus
-Rodentia,Muridae,Gerbillus,Gerbillus gerbillus,gerbillus
-Rodentia,Muridae,Mastomys,Mastomys coucha,coucha
-Rodentia,Muridae,Gerbillus,Gerbillus allenbyi,allenbyi
-Rodentia,Muridae,Gerbillus,Gerbillus nanus,nanus
-Rodentia,Muridae,Myotomys,Myotomys unisulcatus,unisulcatus
-Rodentia,Muridae,Parotomys,Parotomys brantsii,brantsii
-Rodentia,Muridae,Tatera,Tatera afra,afra
-Rodentia,Muridae,Otomys,Otomys sloggetti,sloggetti
-Rodentia,Muridae,Hydromys,Hydromys chrysogaster,chrysogaster
-Rodentia,Muridae,Mus,Mus musculus,musculus
-Rondentia,Muridae,Rattus,Rattus sp.,sp.
-Rondentia,Muridae,Meriones,Meriones unguiculatus,unguiculatus
-Rondentia,Muridae,Mus,Mus sp.,sp.
-Carnivora,Mustelidae,Conepatus,Conepatus chinga,chinga
-Carnivora,Mustelidae,Conepatus,Conepatus leuconotus,leuconotus
-Carnivora,Mustelidae,Galictis,Galictis cuja,cuja
-Carnivora,Mustelidae,Ictonyx,Ictonyx striatus,striatus
-Carnivora,Mustelidae,Mellivora,Mellivora capensis,capensis
-Carnivora,Mustelidae,Mustela,Mustela erminea,erminea
-Carnivora,Mustelidae,Poecilogale,Poecilogale albinucha,albinucha
-Carnivora,Mustelidae,Taxidea,Taxidea taxus,taxus
-Carnivora,Mustelidae,Vormela,Vormela peregusna,peregusna
-Carnivora,Mustelidae,Mustela,Mustela putorius,putorius
-Carnivora,Mustelidae,Galictis,Galictis vittata,vittata
-Carnivora,Mustelidae,Eira,Eira barbara,barbara
-Carnivora,Mustelidae,Mustela,Mustela arctica,arctica
-Carnivora,Mustelidae,Mustela,Mustela rixosa,rixosa
-Carnivora,Mustelidae,Mustela,Mustela vison,vison
-Carnivora,Mustelidae,Martes,Martes americana,americana
-Dasyuromorphia,Myrmecobiidae,Myrmecobius,Myrmecobius fasciatus,fasciatus
-Pilosa,Myrmecophagidae,Tamanduas,Tamanduas tetradactyla,tetradactyla
-Pilosa,Myrmecophagidae,Tamandua,Tamandua tetradactyla,tetradactyla
-Pilosa,Myrmecophagidae,Tamandua,Tamandua mexicana,mexicana
-Pilosa,Myrmecophagidae,Myrmecophaga,Myrmecophaga tridactyla,tridactyla
-Chrioptera,Natalidae,Natalus,Natalus tumidirostris,tumidirostris
-Rodentia,Nesomyidae,Cricetomys,Cricetomys gambianus,gambianus
-Rodentia,Nesomyidae,Mystromys,Mystromys albicaudatus,albicaudatus
-Chiroptera,Noctilionidae,Noctilio,Noctilio leporinus,leporinus
-Notoryctemorphia,Notoryctidae,Notoryctes,Notoryctes caurinus,caurinus
-Chiroptera,Nycteridae,Nycteris,Nycteris arge,arge
-Rodentia,Octodontidae,Octomys,Octomys mimax,mimax
-Rodentia,Octodontidae,Tympanoctomys,Tympanoctomys barrerae,barrerae
-Rodentia,Octodontidae,Octodontomys,Octodontomys gliroides,gliroides
-Rodentia,Octodontidae,Octodon,Octodon degus,degus
-Rodentia,Octodontidae,Spalacopus,Spalacopus cyanus,cyanus
-Carnivora,Odobenidae,Odobenus,Odobenus rosmarus,rosmarus
-Monotremata,Ornithorhynchisae,Ornithorhynchus,Ornithorhynchus anatinus,anatinus
-Tubulidentata,Orycteropodidae,Orycteropus,Orycteropus afer,afer
-Carnivora,Otariidae,Arctocephalus,Arctocephalus australis,australis
-Carnivora,Otariidae,Arctocephalus,Arctocephalus forsteri,forsteri
-Carnivora,Otariidae,Arctocephalus,Arctocephalus galapagoensis,galapagoensis
-Carnivora,Otariidae,Arctocephalus,Arctocephalus gazella,gazella
-Carnivora,Otariidae,Arctocephalus,Arctocephalus philippii,philippii
-Carnivora,Otariidae,Arctocephalus,Arctocephalus pusillus,pusillus
-Carnivora,Otariidae,Arctocephalus,Arctocephalus tropicalis,tropicalis
-Carnivora,Otariidae,Callorhinus,Callorhinus ursinus,ursinus
-Carnivora,Otariidae,Eumetopias,Eumetopias jubatus,jubatus
-Carnivora,Otariidae,Neophoca,Neophoca cinerea,cinerea
-Carnivora,Otariidae,Otaria,Otaria byronia,byronia
-Carnivora,Otariidae,Phocarctos,Phocarctos hookeri,hookeri
-Carnivora,Otariidae,Zalophus,Zalophus californianus,californianus
-Peramelemorphia,Peramelidae,Rhynchomeles,Rhynchomeles prattorum,prattorum
-Peramelemorphia,Peramelidae,Perameles,Perameles bougainville,bougainville
-Peramelemorphia,Peramelidae,Echymipera,Echymipera kalubu,kalubu
-Peramelemorphia,Peramelidae,Echymipera,Echymipera rufescens,rufescens
-Peramelemorphia,Peramelidae,Microperoryctes,Microperoryctes longicauda,longicauda
-Peramelemorphia,Peramelidae,Isoodon,Isoodon macrourus,macrourus
-Peramelemorphia,Peramelidae,Echymipera,Echymipera clara,clara
-Peramelemorphia,Peramelidae,Perameles,Perameles gunnii,gunnii
-Peramelemorphia,Peramelidae,Perameles,Perameles nasuta,nasuta
-Peramelemorphia,Peramelidae,Peroryctes,Peroryctes raffrayana,raffrayana
-Peramelemorphia,Peramelidae,Isoodon,Isoodon obesulus,obesulus
-Diprotodontia,Petauridae,Petaurus,Petaurus biacensis,biacensis
-Diprotodontia,Petauridae,Petaurus,Petaurus abidi,abidi
-Diprotodontia,Petauridae,Petaurus,Petaurus breviceps,breviceps
-Diprotodontia,Petauridae,Gymnobelideus,Gymnobelideus leadbeateri,leadbeateri
-Diprotodontia,Petauridae,Petaurus,Petaurus norfolcensis,norfolcensis
-Diprotodontia,Petauridae,Dactylonax,Dactylonax tatei,tatei
-Diprotodontia,Petauridae,Petaurus,Petaurus australis,australis
-Diprotodontia,Petauridae,Dactylonax,Dactylonax trivirgata,trivirgata
-Diprotodontia,Petauridae,Dactylonax,Dactylonax palpator,palpator
-Diprotodontia,Phalangeridae,Phalanger,Phalanger rothschildi,rothschildi
-Diprotodontia,Phalangeridae,Strigocuscus,Strigocuscus pelengensis,pelengensis
-Diprotodontia,Phalangeridae,Phalanger,Phalanger intercastellanus,intercastellanus
-Diprotodontia,Phalangeridae,Spilocuscus,Spilocuscus kraemeri,kraemeri
-Diprotodontia,Phalangeridae,Phalanger,Phalanger lullulae,lullulae
-Diprotodontia,Phalangeridae,Phalanger,Phalanger ornatus,ornatus
-Diprotodontia,Phalangeridae,Phalanger,Phalanger orientalis,orientalis
-Diprotodontia,Phalangeridae,Phalanger,Phalanger mimicus,mimicus
-Diprotodontia,Phalangeridae,Phalanger,Phalanger carmelitae,carmelitae
-Diprotodontia,Phalangeridae,Phalanger,Phalanger vestitus,vestitus
-Diprotodontia,Phalangeridae,Phalanger,Phalanger sericeus,sericeus
-Diprotodontia,Phalangeridae,Wyulda,Wyulda squamicaudata,squamicaudata
-Diprotodontia,Phalangeridae,Trichosurus,Trichosurus vulpecula,vulpecula
-Diprotodontia,Phalangeridae,Trichosurus,Trichosurus caninus,caninus
-Diprotodontia,Phalangeridae,Phalanger,Phalanger gymnotis,gymnotis
-Diprotodontia,Phalangeridae,Spilocuscus,Spilocuscus maculatus,maculatus
-Diprotodontia,Phalangeridae,Spilocuscus,Spilocuscus rufoniger,rufoniger
-Diprotodontia,Phalangeridae,Trichosurus,Trichosurus fuliginosus,fuliginosus
-Diprotodontia,Phascolarctidae,Phascolarctos,Phascolarctos cinereus,cinereus
-Carnivora,Phocidae,Cystophora,Cystophora cristata,cristata
-Carnivora,Phocidae,Halichoerus,Halichoerus grypus,grypus
-Carnivora,Phocidae,Hydrurga,Hydrurga leptonyx,leptonyx
-Carnivora,Phocidae,Leptonychotes,Leptonychotes weddellii,weddellii
-Carnivora,Phocidae,Lobodon,Lobodon carcinophagus,carcinophagus
-Carnivora,Phocidae,Mirounga,Mirounga leonina,leonina
-Carnivora,Phocidae,Monachus,Monachus monachus,monachus
-Carnivora,Phocidae,Monachus,Monachus schauinslandi,schauinslandi
-Carnivora,Phocidae,Monachus,Monachus tropicalis,tropicalis
-Carnivora,Phocidae,Ommatophoca,Ommatophoca rossii,rossii
-Carnivora,Phocidae,Phoca,Phoca caspica,caspica
-Carnivora,Phocidae,Phoca,Phoca fasciata,fasciata
-Carnivora,Phocidae,Phoca,Phoca groenlandica,groenlandica
-Carnivora,Phocidae,Phoca,Phoca hispida,hispida
-Carnivora,Phocidae,Phoca,Phoca largha,largha
-Carnivora,Phocidae,Phoca,Phoca sibirica,sibirica
-Carnivora,Phocidae,Phoca,Phoca vitulina,vitulina
-Chiroptera,Phyllostomatidae,Artibeus,Artibeus jamaicensis,jamaicensis
-Chiroptera,Phyllostomatidae,Artibeus,Artibeus lituratus,lituratus
-Chiroptera,Phyllostomatidae,Carollia,Carollia perspicillata,perspicillata
-Chiroptera,Phyllostomatidae,Glossophaga,Glossophaga soricina,soricina
-Chiroptera,Phyllostomatidae,Leptonycteris,Leptonycteris curasoae,curasoae
-Chiroptera,Phyllostomatidae,Mimon,Mimon crenulatum,crenulatum
-Chiroptera,Phyllostomatidae,Mormoops,Mormoops megalophylla,megalophylla
-Chiroptera,Phyllostomatidae,Phyllostomus,Phyllostomus discolor,discolor
-Chiroptera,Phyllostomatidae,Pteronotus,Pteronotus davyi,davyi
-Chiroptera,Phyllostomatidae,Sturnira,Sturnira lilium,lilium
-Chiroptera,Phyllostomatidae,Uroderma,Uroderma bilobatum,bilobatum
-Chiroptera,Phyllostomatidae,Vampyrops,Vampyrops helleri,helleri
-Chiroptera,Phyllostomidae,Desmodus,Desmodus rotundus,rotundus
-Diprotodontia,Potoroidae,Potorous,Potorous platyops,platyops
-Diprotodontia,Potoroidae,Bettongia,Bettongia tropica,tropica
-Diprotodontia,Potoroidae,Potorous,Potorous tridactylus,tridactylus
-Diprotodontia,Potoroidae,Bettongia,Bettongia penicillata,penicillata
-Diprotodontia,Potoroidae,Bettongia,Bettongia lesueur,lesueur
-Diprotodontia,Potoroidae,Bettongia,Bettongia gaimardi,gaimardi
-Diprotodontia,Potoroidae,Aepyprymnus,Aepyprymnus rufescens,rufescens
-Hyracoidea,Procaviidae,Procavia,Procavia capensis,capensis
-Carnivora,Procyonidae,Bassaricyon,Bassaricyon alleni,alleni
-Carnivora,Procyonidae,Bassariscus,Bassariscus astutus,astutus
-Carnivora,Procyonidae,Nasua,Nasua narica,narica
-Carnivora,Procyonidae,Potos,Potos flavus,flavus
-Carnivora,Procyonidae,Procyon,Procyon lotor,lotor
-Diprotodontia,Pseudocheiridae,Pseudochirulus,Pseudochirulus canescens,canescens
-Diprotodontia,Pseudocheiridae,Pseudochirulus,Pseudochirulus mayeri,mayeri
-Diprotodontia,Pseudocheiridae,Pseudochirulus,Pseudochirulus schlegeli,schlegeli
-Diprotodontia,Pseudocheiridae,Hemibelideus,Hemibelideus lemuroides,lemuroides
-Diprotodontia,Pseudocheiridae,Pseudochirulus,Pseudochirulus caroli,caroli
-Diprotodontia,Pseudocheiridae,Pseudochirulus,Pseudochirulus forbesi,forbesi
-Diprotodontia,Pseudocheiridae,Pseudochirulus,Pseudochirulus herbertensis,herbertensis
-Diprotodontia,Pseudocheiridae,Pseudocheirus,Pseudocheirus peregrinus,peregrinus
-Diprotodontia,Pseudocheiridae,Pseudochirops,Pseudochirops albertisii,albertisii
-Diprotodontia,Pseudocheiridae,Petauroides,Petauroides volans,volans
-Diprotodontia,Pseudocheiridae,Petropseudes,Petropseudes dahli,dahli
-Diprotodontia,Pseudocheiridae,Pseudochirops,Pseudochirops coronatus,coronatus
-Diprotodontia,Pseudocheiridae,Pseudochirops,Pseudochirops corinnae,corinnae
-Diprotodontia,Pseudocheiridae,Pseudochirops,Pseudochirops archeri,archeri
-Diprotodontia,Pseudocheiridae,Pseudochirops,Pseudochirops cupreus,cupreus
-Diprotodontia,Pseudocheiridae,Pseudocheirus,Pseudocheirus occidentalis,occidentalis
-Chiroptera,Pteropidae,Casinycteris,Casinycteris argynnis,argynnis
-Chiroptera,Pteropidae,Cynopterus,Cynopterus brachyotis,brachyotis
-Chiroptera,Pteropidae,Cynopterus,Cynopterus horsfieldi,horsfieldi
-Chiroptera,Pteropidae,Eonycteris,Eonycteris spelea,spelea
-Chiroptera,Pteropidae,Hypsignathus,Hypsignathus monstrosus,monstrosus
-Chiroptera,Pteropidae,Rousettus,Rousettus aegyptiacus,aegyptiacus
-Chiroptera,Pteropidae,Pteropus,Pteropus vampyru,vampyru
-Chiroptera,Pteropidae,Epomophorus,Epomophorus gambianus,gambianus
-Chiroptera,Pteropidae,Pteropus,Pteropus edwarsi,edwarsi
-Chiroptera,Pteropodidae,Pteropus,Pteropus giganteus,giganteus
-Chiroptera,Rhinolophidae,Rhinolophus,Rhinolophus hipposideros,hipposideros
-Rodentia,Sciuridae,Rubrisciurus,Rubrisciurus rubriventer,rubriventer
-Rodentia,Sciuridae,Sciurus,Sciurus niger,niger
-Rodentia,Sciuridae,Marmota,Marmota sibirica,sibirica
-Rodentia,Sciuridae,Ictidomys,Ictidomys tridecemlineatus,tridecemlineatus
-Rodentia,Sciuridae,Tamias,Tamias striatus,striatus
-Rodentia,Sciuridae,Cynomys,Cynomys gunnisoni,gunnisoni
-Rodentia,Sciuridae,Sciurus,Sciurus aberti,aberti
-Rodentia,Sciuridae,Callospermophilus,Callospermophilus sp.,sp.
-Rodentia,Sciuridae,Spermophilus,Spermophilus tridecemlineatus,tridecemlineatus
-Rodentia,Sciuridae,Tamiasciurus,Tamiasciurus hudsonicus,hudsonicus
-Rodentia,Sciuridae,Eutamias,Eutamias minimus borealis,minimus borealis
-Rodentia,Sciuridae,Eutamias,Eutamias minimus oreocetes,minimus oreocetes
-Rodentia,Sciuridae,Eutamias,Eutamias amoenus luteiventris,amoenus luteiventris
-Rodentia,Sciuridae,Otospermophilus,Otospermophilus beecheyi,beecheyi
-Rodentia,Sciuridae,Cynomys,Cynomys ludovicianus,ludovicianus
-Rodentia,Sciuridae,Citellus,Citellus undulatus,undulatus
-Eulipotyphla,Solenodontidae,Solenodon,Solenodon paradoxus,paradoxus
-Eulipotyphla,Soricidae,Sorex,Sorex minutus,minutus
-Eulipotyphla,Soricidae,Sorex,Sorex araneus,araneus
-Eulipotyphla,Soricidae,Blarina,Blarina brevicauda,brevicauda
-Eulipotyphla,Soricidae,Neomys,Neomys fodiens,fodiens
-Eulipotyphla,Soricidae,Sylvisorex,Sylvisorex megalura,megalura
-Eulipotyphla,Soricidae,Sylvisorex,Sylvisorex lunaris,lunaris
-Eulipotyphla,Soricidae,Suncus,Suncus murinus,murinus
-Eulipotyphla,Soricidae,Crocidura,Crocidura hildegardeae,hildegardeae
-Eulipotyphla,Soricidae,Crocidura,Crocidura russula,russula
-Eulipotyphla,Soricidae,Crocidura,Crocidura niobe,niobe
-Eulipotyphla,Soricidae,Crocidura,Crocidura jacksoni,jacksoni
-Eulipotyphla,Soricidae,Crocidura,Crocidura occidenlalis,occidenlalis
-Eulipotyphla,Soricidae,Crocidura,Crocidura giffardi,giffardi
-Eulipotyphla,Soricidae,Crocidura,Crocidura pyrenaicus,pyrenaicus
-Rodentia,Spalacidae,Spalax,Spalax ehrenbergi,ehrenbergi
-Rodentia,Spalacidae,Cannomys,Cannomys badius,badius
-Artiodactyla,Suidae,Sus,Sus scrofa,scrofa
-Monotremata,Tachyglossidae,Zaglossus,Zaglossus bruijni,bruijni
-Monotremata,Tachyglossidae,Tachyglossus,Tachyglossus aculeatus,aculeatus
-Monotremata,Tachyglossidae,Tachyglossus,Tachyglossus setosus,setosus
-Eulipotyphla,Talpidae,Talpa,Talpa europaea,europaea
-Eulipotyphla,Talpidae,Scalopus,Scalopus aquaticus,aquaticus
-Eulipotyphla,Talpidae,Condylura,Condylura cristata,cristata
-Eulipotyphla,Talpidae,Neurotrichus,Neurotrichus gibbsii,gibbsii
-Soricomorpha,Talpidae,Desmana,Desmana moschata,moschata
-Primates,Tarsiidae,Tarsius,Tarsius bancanus,bancanus
-Primates,Tarsiidae,Carlito,Carlito syrichta,syrichta
-Primates,Tarsiidae,Tarsius,Tarsius spectrum,spectrum
-Diprotodontia,Tarsipedidae,Tarsipes,Tarsipes rostratus,rostratus
-Artiodactyla,Tayassuidae,Pecari,Pecari tajacu,tajacu
-Afrosoricida,Tenrecidae,Tenrec,Tenrec ecaudatus,ecaudatus
-Afrosoricida,Tenrecidae,Setifer,Setifer setosus,setosus
-Afrosoricida,Tenrecidae,Hemicentetes,Hemicentetes semispinosus,semispinosus
-Afrosoricida,Tenrecidae,Echinops,Echinops telfairi,telfairi
-Afrosoricida,Tenrecidae,Oryzorictes,Oryzorictes hova,hova
-Afrosoricida,Tenrecidae,Microgale,Microgale cowani,cowani
-Afrosoricida,Tenrecidae,Microgale,Microgale dobsoni,dobsoni
-Afrosoricida,Tenrecidae,Limnogale,Limnogale mergulus,mergulus
-Afrosoricida,Tenrecidae,Potamogale,Potamogale velox,velox
-Dasyuromorphia,Thylacinidae,Thylacinus,Thylacinus cynocephalus,cynocephalus
-Peramelemorphia,Thylacomyidae,Macrotis,Macrotis leucura,leucura
-Peramelemorphia,Thylacomyidae,Macrotis,Macrotis lagotis,lagotis
-Artiodactyla,Tragulidae,Tragulus,Tragulus javanicus,javanicus
-Scandentia,Tupaiidae,Tupaia,Tupaia javanica,javanica
-Scandentia,Tupaiidae,Tupaia,Tupaia glis,glis
-Scandentia,Tupaiidae,Urogale,Urogale everetti,everetti
-Carnivora,Ursidae,Ursus,Ursus arctos,arctos
-Carnivora,Ursidae,Ursus,Ursus maritimus,maritimus
-Chiroptera,Vespertilionidae,Myotis,Myotis bechsteini,bechsteini
-Chiroptera,Vespertilionidae,Myotis,Myotis bocagei,bocagei
-Chiroptera,Vespertilionidae,Myotis,Myotis dasycneme,dasycneme
-Chiroptera,Vespertilionidae,Myotis,Myotis daubentoni,daubentoni
-Chiroptera,Vespertilionidae,Myotis,Myotis myotis,myotis
-Chiroptera,Vespertilionidae,Myotis,Myotis mystacinus,mystacinus
-Chiroptera,Vespertilionidae,Myotis,Myotis nattereri,nattereri
-Chiroptera,Vespertilionidae,Myotis,Myotis nigricans,nigricans
-Chiroptera,Vespertilionidae,Nyctalus,Nyctalus noctula,noctula
-Chiroptera,Vespertilionidae,Vespertilio,Vespertilio serotinus,serotinus
-Chiroptera,Vespertilionidae,Vespertilio,Vespertilio murinus,murinus
-Chiroptera,Vespertilionidae,Scotophilus,Scotophilus gigas,gigas
-Chiroptera,Vespertilionidae,Miniopterus,Miniopterus schreibers,schreibers
-Chiroptera,Vespertilionidae,Nyctophilus,Nyctophilus major,major
-Carnivora,Viverridae,Paguma,Paguma larvata,larvata
-Carnivora,Viverridae,Viverra,Viverra tangalunga,tangalunga
-Carnivora,Viverridae,Arctictis,Arctictis binturong,binturong
-Carnivora,Viverridae,Genetta,Genetta pardina,pardina
-Carnivora,Viverridae,Spilogale,Spilogale arizonae,arizonae
-Carnivora,Viverridae,Genetta,Genetta tigrina,tigrina
-Dasyuromorphia,Viverridae,Paradoxurus,Paradoxurus hermaphroditus,hermaphroditus
-Diprotodontia,Vombatidae,Lasiorhinus,Lasiorhinus latifrons,latifrons
-Diprotodontia,Vombatidae,Vombatus,Vombatus ursinus,ursinus
+order,Species
+Artiodactyla,Aepyceros_melampus
+Artiodactyla,Alcelaphus_buselaphus
+Artiodactyla,Alces_alces
+Artiodactyla,Antilocapra_americana
+Artiodactyla,Bison_bison
+Artiodactyla,Camelus_dromedarius
+Artiodactyla,Capra_ibex
+Artiodactyla,Capreolus_capreolus
+Artiodactyla,Cervus_elaphus
+Artiodactyla,Cervus_nippon
+Artiodactyla,Connochaetes_taurinus
+Artiodactyla,Dama_dama
+Artiodactyla,Damaliscus_pygargus
+Artiodactyla,Gazella_dorcas
+Artiodactyla,Giraffa_camelopardalis_thornicroftii
+Artiodactyla,Hippopotamus_amphibius
+Artiodactyla,Lama_glama
+Artiodactyla,Madoqua_kirkii
+Artiodactyla,Odocoileus_hemionus
+Artiodactyla,Odocoileus_virginianus
+Artiodactyla,Ovis_aries
+Artiodactyla,Ovis_canadensis
+Artiodactyla,Ovis_dalli
+Artiodactyla,Rangifer_tarandus
+Artiodactyla,Sus_scrofa
+Artiodactyla,Sylvicapra_grimmia
+Artiodactyla,Syncerus_caffer
+Artiodactyla,Taurotragus_oryx
+Carnivora,Bassariscus_astutus
+Carnivora,Canis_latrans
+Carnivora,Canis_lupus
+Carnivora,Civettictis_civetta
+Carnivora,Crocuta_crocuta
+Carnivora,Cystophora_cristata
+Carnivora,Enhydra_lutris
+Carnivora,Felis_catus
+Carnivora,Felis_chaus
+Carnivora,Felis_silvestris
+Carnivora,Galidia_elegans
+Carnivora,Halichoerus_grypus
+Carnivora,Herpestes_javanicus
+Carnivora,Histriophoca_fasciata
+Carnivora,Hyaena_brunnea
+Carnivora,Hydrurga_leptonyx
+Carnivora,Ictonyx_striatus
+Carnivora,Leopardus_pardalis
+Carnivora,Lontra_canadensis
+Carnivora,Lynx_lynx
+Carnivora,Lynx_rufus
+Carnivora,Mephitis_mephitis
+Carnivora,Mirounga_angustirostris
+Carnivora,Mirounga_leonina
+Carnivora,Mustela_erminea
+Carnivora,Mustela_frenata
+Carnivora,Mustela_nivalis
+Carnivora,Neovison_vison
+Carnivora,Nyctereutes_procyonoides
+Carnivora,Pagophilus_groenlandicus
+Carnivora,Panthera_leo
+Carnivora,Panthera_onca
+Carnivora,Panthera_pardus
+Carnivora,Panthera_tigris
+Carnivora,Phoca_vitulina
+Carnivora,Procyon_lotor
+Carnivora,Puma_concolor
+Carnivora,Pusa_caspica
+Carnivora,Pusa_hispida
+Carnivora,Pusa_sibirica
+Carnivora,Taxidea_taxus
+Carnivora,Ursus_americanus
+Carnivora,Ursus_arctos
+Carnivora,Ursus_maritimus
+Carnivora,Vulpes_vulpes
+Carnivora,Zalophus_californianus
+Carvivora,Acinonyx_jubatus
+Carvivora,Ailuropoda_melanoleuca
+Carvivora,Ailurus_fulgens
+Carvivora,Arctocephalus_gazella
+Carvivora,Callorhinus_ursinus
+Cetacea,Balaenoptera_musculus
+Cetacea,Balaenoptera_physalus
+Cetacea,Delphinus_delphis
+Cetacea,Eubalaena_australis
+Cetacea,Neophocaena_phocaenoides
+Cetacea,Physeter_catodon
+Chiroptera,Artibeus_jamaicensis
+Chiroptera,Cynopterus_sphinx
+Chiroptera,Eptesicus_fuscus
+Chiroptera,Lasionycteris_noctivagans
+Chiroptera,Myotis_daubentonii
+Chiroptera,Myotis_lucifugus
+Chiroptera,Myotis_myotis
+Chiroptera,Myotis_velifer
+Chiroptera,Nyctalus_noctula
+Chiroptera,Pipistrellus_pipistrellus
+Chiroptera,Pipistrellus_subflavus
+Chiroptera,Plecotus_auritus
+Dasyuromorphia,Antechinus_agilis
+Dasyuromorphia,Antechinus_stuartii
+Dasyuromorphia,Dasyurus_geoffroii
+Dasyuromorphia,Dasyurus_maculatus
+Dasyuromorphia,Dasyurus_viverrinus
+Dasyuromorphia,Planigale_gilesi
+Dasyuromorphia,Sminthopsis_crassicaudata
+Dasyuromorphia,Sminthopsis_macroura
+Didelphimorphia,Caluromys_philander
+Didelphimorphia,Didelphis_virginiana
+Didelphimorphia,Monodelphis_domestica
+Diprotodontia,Acrobates_pygmaeus
+Diprotodontia,Bettongia_gaimardi
+Diprotodontia,Bettongia_lesueur
+Diprotodontia,Bettongia_penicillata
+Diprotodontia,Lasiorhinus_latifrons
+Diprotodontia,Macropus_agilis
+Diprotodontia,Macropus_antilopinus
+Diprotodontia,Macropus_fuliginosus
+Diprotodontia,Macropus_giganteus
+Diprotodontia,Macropus_parma
+Diprotodontia,Macropus_robustus
+Diprotodontia,Macropus_rufogriseus
+Diprotodontia,Macropus_rufus
+Diprotodontia,Petaurus_breviceps
+Diprotodontia,Petrogale_xanthopus
+Diprotodontia,Phascolarctos_cinereus
+Diprotodontia,Potorous_tridactylus
+Diprotodontia,Setonix_brachyurus
+Diprotodontia,Tarsipes_rostratus
+Diprotodontia,Thylogale_billardierii
+Diprotodontia,Trichosurus_vulpecula
+Erinaceomorpha,Erinaceus_europaeus
+Eulipotyphla,Neomys_fodiens
+Hyracoidea,Procavia_capensis
+Lagomorpha,Lepus_americanus
+Lagomorpha,Lepus_europaeus
+Lagomorpha,Ochotona_princeps
+Lagomorpha,Sylvilagus_floridanus
+Peramelemorphia,Isoodon_macrourus
+Peramelemorphia,Perameles_gunnii
+Peramelemorphia,Perameles_nasuta
+Perissodactyla,Diceros_bicornis
+Perissodactyla,Equus_asinus
+Perissodactyla,Equus_burchellii
+Perissodactyla,Equus_zebra
+Primates,Alouatta_palliata
+Primates,Aotus_trivirgatus
+Primates,Arctocebus_calabarensis
+Primates,Ateles_geoffroyi
+Primates,Callimico_goeldii
+Primates,Callithrix_aurita
+Primates,Callithrix_geoffroyi
+Primates,Callithrix_jacchus
+Primates,Callithrix_kuhlii
+Primates,Callithrix_pygmaea
+Primates,Cebus_albifrons
+Primates,Cebus_apella
+Primates,Cebus_capucinus
+Primates,Chlorocebus_aethiops
+Primates,Colobus_guereza
+Primates,Colobus_polykomos
+Primates,Daubentonia_madagascariensis
+Primates,Erythrocebus_patas
+Primates,Galago_moholi
+Primates,Galago_senegalensis
+Primates,Galago_zanzibaricus
+Primates,Gorilla_gorilla
+Primates,Hylobates_lar
+Primates,Leontopithecus_rosalia
+Primates,Loris_tardigradus
+Primates,Macaca_arctoides
+Primates,Macaca_fascicularis
+Primates,Macaca_maura
+Primates,Macaca_mulatta
+Primates,Macaca_nemestrina
+Primates,Macaca_radiata
+Primates,Macaca_thibetana
+Primates,Mandrillus_sphinx
+Primates,Miopithecus_talapoin
+Primates,Nasalis_larvatus
+Primates,Nycticebus_coucang
+Primates,Nycticebus_pygmaeus
+Primates,Otolemur_crassicaudatus
+Primates,Otolemur_garnettii
+Primates,Pan_paniscus
+Primates,Pan_troglodytes
+Primates,Papio_anubis
+Primates,Papio_cynocephalus
+Primates,Papio_hamadryas
+Primates,Pongo_abelii
+Primates,Pongo_pygmaeus
+Primates,Saguinus_nigricollis
+Primates,Saguinus_oedipus
+Primates,Saimiri_sciureus
+Primates,Semnopithecus_entellus
+Primates,Theropithecus_gelada
+Primates,Varecia_rubra
+Primates,Varecia_variegata
+Proboscidea,Loxodonta_africana
+Rodentia,Acomys_cahirinus
+Rodentia,Ammospermophilus_leucurus
+Rodentia,Ammospermophilus_nelsoni
+Rodentia,Apodemus_flavicollis
+Rodentia,Baiomys_taylori
+Rodentia,Bandicota_indica
+Rodentia,Beamys_hindei
+Rodentia,Castor_fiber
+Rodentia,Cavia_porcellus
+Rodentia,Cricetus_cricetus
+Rodentia,Cryptomys_hottentotus
+Rodentia,Cynomys_ludovicianus
+Rodentia,Dasymys_incomtus
+Rodentia,Dicrostonyx_groenlandicus
+Rodentia,Dipodomys_merriami
+Rodentia,Dipodomys_spectabilis
+Rodentia,Erethizon_dorsata
+Rodentia,Geomys_bursarius
+Rodentia,Gerbillurus_paeba
+Rodentia,Glaucomys_sabrinus
+Rodentia,Glaucomys_volans
+Rodentia,Heterocephalus_glaber
+Rodentia,Hydrochoeris_hydrochaeris
+Rodentia,Hydromys_chrysogaster
+Rodentia,Jaculus_jaculus
+Rodentia,Lagostomus_maximus
+Rodentia,Lagurus_lagurus
+Rodentia,Marmota_flaviventris
+Rodentia,Marmota_monax
+Rodentia,Mastomys_natalensis
+Rodentia,Meriones_unguiculatus
+Rodentia,Mesocricetus_auratus
+Rodentia,Microtus_agrestis
+Rodentia,Microtus_arvalis
+Rodentia,Microtus_californicus
+Rodentia,Microtus_ochrogaster
+Rodentia,Microtus_oeconomus
+Rodentia,Microtus_pennsylvanicus
+Rodentia,Microtus_pinetorum
+Rodentia,Mus_musculus
+Rodentia,Myocastor_coypus
+Rodentia,Neotoma_albigula
+Rodentia,Neotoma_cinerea
+Rodentia,Neotoma_floridana
+Rodentia,Neotoma_lepida
+Rodentia,Neotoma_micropus
+Rodentia,Neotoma_stephensi
+Rodentia,Octodon_degus
+Rodentia,Onychomys_leucogaster
+Rodentia,Onychomys_torridus
+Rodentia,Peromyscus_californicus
+Rodentia,Peromyscus_crinitus
+Rodentia,Peromyscus_gossypinus
+Rodentia,Peromyscus_leucopus
+Rodentia,Peromyscus_polionotus
+Rodentia,Phodopus_sungorus
+Rodentia,Praomys_jacksoni
+Rodentia,Rattus_norvegicus
+Rodentia,Rattus_rattus
+Rodentia,Rhabdomys_pumilio
+Rodentia,Sigmodon_hispidus
+Rodentia,Spermophilus_beecheyi
+Rodentia,Spermophilus_beldingi
+Rodentia,Spermophilus_columbianus
+Rodentia,Tamias_amoenus
+Rodentia,Tamias_striatus
+Rodentia,Tamiasciurus_hudsonicus
+Scandentia,Tupaia_glis
+Soricomorpha,Crocidura_russula
+Soricomorpha,Sorex_araneus
+Soricomorpha,Suncus_murinus
+Soricomorpha,Talpa_europaea
