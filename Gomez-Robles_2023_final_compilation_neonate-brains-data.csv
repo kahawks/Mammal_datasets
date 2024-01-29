@@ -1,0 +1,141 @@
+﻿Species,Binomial2,Order,Over500gr,Family,NeoBrain,NeoBody,AdultBrain,AdultBody,Gestation,GenTime,RefBrain,RefBody,RefGestation,BrainRatio,BodyRatio
+Alouatta_palliata,Alouatta_palliata,Primates,Others,Atelidae,30.8,440,54,5495,185,4.324,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,PanTHERIA,0.57037037,0.080072793
+Ammotragus_lervia,Ammotragus_lervia,Artiodactyla,Others,Bovidae,92,3730,210,67608,158,1.389,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.438095238,0.055170986
+Antilope_cervicapra,Antilope_cervicapra,Artiodactyla,Others,Bovidae,62,2740,200,34995,167,1.277,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.31,0.0782969
+Aotus_trivirgatus,Aotus_trivirgatus,Primates,Others,Aotidae,10.1,98,18.2,868,133,2.018,"Harvey & Clutton-Brock, 1985",Grunstra et al 2019,"Harvey & Clutton-Brock, 1985",0.554945055,0.112903226
+Arctocebus_calabarensis,Arctocebus_calabarensis,Primates,Others,Lorisidae,2.3,25.2,7.7,264,134,0.819,"Harvey & Clutton-Brock, 1985",Barton & Capellini 2011,PanTHERIA,0.298701299,0.095454545
+Ateles_fusciceps,Ateles_fusciceps,Primates,Others,Atelidae,58,407,114,9100,225,4.931,"Sacher & Staffeldt, 1974","Sacher & Staffeldt, 1974",PanTHERIA,0.50877193,0.044725275
+Ateles_geoffroyi,Ateles_geoffroyi,Primates,Others,Atelidae,64,512,109,7656,226,5.766,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,PanTHERIA,0.587155963,0.066875653
+Axis_axis,Axis_axis,Artiodactyla,Others,Cervidae,78.6,3156.86,219,50003,227,1.49,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,PanTHERIA,0.35890411,0.063133412
+Bos_grunniens,Bos_grunniens,Artiodactyla,Others,Bovidae,187,18000,334,306196,255,2.069,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.55988024,0.058785876
+Bos_taurus,Bos_taurus,Artiodactyla,Others,Bovidae,199,25000,456,483059,280,2.069,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.436403509,0.051753513
+Callimico_goeldii,Callimico_goeldii,Primates,Others,Cebidae,5.8,48.6,10.8,536,154,1.134,"Harvey & Clutton-Brock, 1985",Grunstra et al 2019,"Harvey & Clutton-Brock, 1985",0.537037037,0.090671642
+Callithrix_geoffroyi,Callithrix_geoffroyi,Primates,Others,Cebidae,3.7,35.3,7.8,275,145,1.249,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.474358974,0.128363636
+Callithrix_jacchus,Callithrix_jacchus,Primates,Others,Cebidae,4.4,28,7.9,301,148,1.249,"Harvey & Clutton-Brock, 1985",Barton & Capellini 2011,"Harvey & Clutton-Brock, 1985",0.556962025,0.093023256
+Callorhinus_ursinus,Callorhinus_ursinus,Carnivora,Arctoids,Otariidae,198,4410,355,42170,358,4.613,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,PanTHERIA,0.557746479,0.104576713
+Canis_lupus,Canis_lupus,Carnivora,Others,Canidae,35.4,412.31,120.23,31117,64,1.861,Barton & Capellini 2011,Barton & Capellini 2011,PanTHERIA,0.294435665,0.013250313
+Capra_hircus,Capra_hircus,Artiodactyla,Others,Bovidae,61.2,2180,106,23335,151,1.495,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.577358491,0.093421898
+Capreolus_capreolus,Capreolus_capreolus,Artiodactyla,Others,Cervidae,34.36,1208.55,64.42,24660,196,1.099,Barton & Capellini 2011,Barton & Capellini 2011,PanTHERIA,0.533374728,0.049008516
+Castor_canadensis,Castor_canadensis,Rodentia,Others,Castoridae,13.9,472,40,13002,128,1.816,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.3475,0.036302107
+Castor_fiber,Castor_fiber,Rodentia,Others,Castoridae,13.8,340,45,20091,106,2.835,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,PanTHERIA,0.306666667,0.016923
+Cavia_porcellus,Cavia_porcellus,Rodentia,Others,Caviidae,2.52,97,4.28,592,67,0.188,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.588785047,0.163851351
+Cebus_albifrons,Cebus_albifrons,Primates,Others,Cebidae,33.65,231.92,70.96,2133,158,4.114,Barton & Capellini 2011,Barton & Capellini 2011,PanTHERIA,0.474210823,0.108729489
+Cebus_capucinus,Cebus_capucinus,Primates,Others,Cebidae,29,250,73,2786,180,5.849,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.397260274,0.089734386
+Cephalophus_dorsalis,Cephalophus_dorsalis,Artiodactyla,Others,Bovidae,39.1,1611.37,93,11588,238,1.5,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,PanTHERIA,0.420430108,0.139055057
+Cercocebus_torquatus,Cercocebus_torquatus,Primates,Others,Cercopithecidae,57.54,474.24,139.96,6194,167,3.613,Barton & Capellini 2011,Barton & Capellini 2011,PanTHERIA,0.411117462,0.076564417
+Cervus_elaphus,Cervus_elaphus,Artiodactyla,Others,Cervidae,155.96,8255.82,297.17,203704,236,1.808,Barton & Capellini 2011,Barton & Capellini 2011,PanTHERIA,0.524817445,0.040528512
+Cervus_nippon,Cervus_nippon,Artiodactyla,Others,Cervidae,86.3,4277.11,200.91,28642,224,1.42,Barton & Capellini 2011,Barton & Capellini 2011,PanTHERIA,0.429545568,0.149330005
+Chinchilla_lanigera,Chinchilla_lanigera,Rodentia,Others,Chinchillidae,2.03,28,5.25,800,110,0.609,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.386666667,0.035
+Chlorocebus_aethiops,Chlorocebus_aethiops,Primates,Others,Cercopithecidae,33.5,314,66.68,3162,162,3.916,Barton & Capellini 2011,Barton & Capellini 2011,AnAge,0.50239952,0.099304238
+Chlorocebus_pygerythrus,Chlorocebus_pygerythrus,Primates,Others,Cercopithecidae,33.5,227,67,4600,195,3.916,"Sacher & Staffeldt, 1974","Sacher & Staffeldt, 1974","Sacher & Staffeldt, 1974",0.5,0.049347826
+Colobus_polykomos,Colobus_polykomos,Primates,Others,Cercopithecidae,38,340,96,7798,173,4.465,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,PanTHERIA,0.395833333,0.043600923
+Cricetulus_barabensis,Cricetulus_barabensis,Rodentia,Others,Cricetidae,0.1,1.85,0.67,30,21,0.237,Barton & Capellini 2011,Barton & Capellini 2011,Barton & Capellini 2011,0.149253731,0.061666667
+Cystophora_cristata,Cystophora_cristata,Carnivora,Arctoids,Phocidae,250.03,21992.7,454.99,200909,240,3.46,Barton & Capellini 2011,Barton & Capellini 2011,AnAge,0.549528561,0.109465977
+Dama_dama,Dama_dama,Artiodactyla,Others,Cervidae,97.3,4080,223,40738,240,1.488,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.43632287,0.100152192
+Dasyprocta_leporina,Dasyprocta_leporina,Rodentia,Others,Dasyproctidae,7.73,165,20.3,3828,104,0.529,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.380788177,0.043103448
+Dasypus_novemcinctus,Dasypus_novemcinctus,Others,Others,Dasypodidae,3.5,80,12,5702,120,1.4,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.291666667,0.014030165
+Elaphurus_davidianus,Elaphurus_davidianus,Artiodactyla,Others,Cervidae,177.01,10467.5,402,130617,286,2.749,Barton & Capellini 2011,Barton & Capellini 2011,PanTHERIA,0.440323383,0.080138879
+Elephantulus_intufi,Elephantulus_intufi,Others,Others,Macroscelididae,0.67,10.5,1.14,57,51,0.688,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.587719298,0.184210526
+Elephantulus_myurus,Elephantulus_myurus,Others,Others,Macroscelididae,0.58,9,1.37,63,46,0.109,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.423357664,0.142857143
+Elephas_maximus,Elephas_maximus,Others,Elephants,Elephantidae,1570.36,97000,4830.59,2660725,634,10.998,Barton & Capellini 2011,Barton & Capellini 2011,PanTHERIA,0.325086584,0.036456229
+Equus_asinus,Equus_asinus,Others,Perissodactyls,Equidae,252.35,29249.99,413.05,190985,367,2.034,Barton & Capellini 2011,Barton & Capellini 2011,PanTHERIA,0.610942985,0.153153337
+Equus_burchellii,Equus_burchellii,Others,Perissodactyls,Equidae,412,43090,642,305600,365,1.945,Halley 2016,Grunstra et al 2019,Halley 2018,0.641744548,0.141001309
+Equus_caballus,Equus_caballus,Others,Perissodactyls,Equidae,368,53000,712,484000,330,2.287,"Sacher & Staffeldt, 1974","Sacher & Staffeldt, 1974","Sacher & Staffeldt, 1974",0.516853933,0.109504132
+Equus_zebra,Equus_zebra,Others,Perissodactyls,Equidae,369.83,29496.68,610.94,248313,363,2.639,Barton & Capellini 2011,Barton & Capellini 2011,PanTHERIA,0.60534586,0.118788303
+Erethizon_dorsatum,Erethizon_dorsatum,Rodentia,Others,Erethizontidae,10,480,24,6823,211,2.117,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,PanTHERIA,0.416666667,0.070350286
+Erinaceus_europaeus,Erinaceus_europaeus,Others,Others,Erinaceidae,0.31,13.9,3.5,776,34,0.728,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.088571429,0.017912371
+Eulemur_fulvus,Eulemur_fulvus,Primates,Others,Lemuridae,10.7,81.4,25.2,2275,118,2.169,"Harvey & Clutton-Brock, 1985",Barton & Capellini 2011,"Harvey & Clutton-Brock, 1985",0.424603175,0.03578022
+Felis_catus,Felis_catus,Carnivora,Others,Felidae,5.6,114,28.4,2500,63,0.814,"Sacher & Staffeldt, 1974","Sacher & Staffeldt, 1974","Sacher & Staffeldt, 1974",0.197183099,0.0456
+Felis_silvestris,Felis_silvestris,Carnivora,Others,Felidae,5.65,106.4,28.05,4093,65,0.961,Barton & Capellini 2011,Barton & Capellini 2011,PanTHERIA,0.201426025,0.025995602
+Galago_senegalensis,Galago_senegalensis,Primates,Others,Galagidae,2.3,11.5,4.8,199,124,0.905,"Harvey & Clutton-Brock, 1985",Barton & Capellini 2011,,0.479166667,0.057788945
+Galagoides_demidoff,Galagoides_demidoff,Primates,Others,Galagidae,1.2,9.89,2.7,78,111,0.946,"Harvey & Clutton-Brock, 1985",Barton & Capellini 2011,"Harvey & Clutton-Brock, 1985",0.444444444,0.126794872
+Gerbillus_pyramidum,Gerbillus_pyramidum,Rodentia,Others,Muridae,0.14,2.6,1.04,37,21,0.214,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.134615385,0.07027027
+Glaucomys_volans,Glaucomys_volans,Rodentia,Others,Sciuridae,0.23,3.8,1.89,79,40,0.92,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.121693122,0.048101266
+Gorilla_gorilla,Gorilla_gorilla,Primates,Hominids,Hominidae,289.07,2070.14,500.03,89125,257,9.187,Barton & Capellini 2011,Barton & Capellini 2011,Barton & Capellini 2011,0.578105314,0.023227377
+Hemicentetes_semispinosus,Hemicentetes_semispinosus,Others,Others,Tenrecidae,0.67,7.39,0.83,113,53,0.133,Barton & Capellini 2011,Barton & Capellini 2011,PanTHERIA,0.807228916,0.06539823
+Hemitragus_jemlahicus,Hemitragus_jemlahicus,Artiodactyla,Others,Bovidae,82.99,2700,165.96,44978,196,4.2,Barton & Capellini 2011,Barton & Capellini 2011,PanTHERIA,0.500060255,0.060029348
+Hexaprotodon_liberiensis,Hexaprotodon_liberiensis,Artiodactyla,Others,Hippopotamidae,90,5730,260,217771,200,4.138,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,PanTHERIA,0.346153846,0.026312043
+Hippopotamus_amphibius,Hippopotamus_amphibius,Artiodactyla,Others,Hippopotamidae,195,40000,590,1348963,240,5.562,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.330508475,0.029652407
+Homo_sapiens,Homo_sapiens,Primates,Hominids,Hominidae,299.92,3318.94,1330.45,55081,275,15.296,Barton & Capellini 2011,Barton & Capellini 2011,PanTHERIA,0.225427487,0.060255624
+Hydrochoerus_hydrochaeris,Hydrochoerus_hydrochaeris,Rodentia,Others,Caviidae,24.8,1500,76,41210,151,1.552,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,PanTHERIA,0.326315789,0.036398932
+Hydropotes_inermis,Hydropotes_inermis,Artiodactyla,Others,Cervidae,20.37,1016.19,52.97,12218,175,0.802,Barton & Capellini 2011,Barton & Capellini 2011,PanTHERIA,0.384557297,0.08317155
+Hylobates_lar,Hylobates_lar,Primates,Others,Hylobatidae,65,400,102,5346,210,10.555,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.637254902,0.074822297
+Hystrix_cristata,Hystrix_cristata,Rodentia,Others,Hystricidae,11.3,1000,37,13804,79,1.201,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,PanTHERIA,0.305405405,0.07244277
+Lama_glama,Lama_glama,Artiodactyla,Others,Camelidae,170,11000,225,103039,330,1.854,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.755555556,0.106755694
+Lemur_catta,Lemur_catta,Primates,Others,Lemuridae,8.78,78,25.6,2333,135,2.278,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.34296875,0.033433348
+Lepilemur_mustelinus,Lepilemur_mustelinus,Primates,Others,Lepilemuridae,2.9,34.5,9.5,659,135,1.819,"Harvey & Clutton-Brock, 1985",Barton & Capellini 2011,"Harvey & Clutton-Brock, 1985",0.305263158,0.052352049
+Leptonychotes_weddellii,Leptonychotes_weddellii,Carnivora,Arctoids,Phocidae,400,30000,550,389942,310,4.349,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.727272727,0.076934518
+Lepus_europaeus,Lepus_europaeus,Others,Others,Leporidae,4.49,123,13.3,3750,41,0.578,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.337593985,0.0328
+Loris_tardigradus,Loris_tardigradus,Primates,Others,Lorisidae,2.7,12.7,6.7,224,163,0.961,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.402985075,0.056696429
+Loxodonta_africana,Loxodonta_africana,Others,Elephants,Elephantidae,1650,120000,4480,2728978,655,13.637,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.368303571,0.043972505
+Lynx_canadensis,Lynx_canadensis,Carnivora,Others,Felidae,7.75,204,75,8590,63,1.844,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,PanTHERIA,0.103333333,0.023748545
+Macaca_fascicularis,Macaca_fascicularis,Primates,Others,Cercopithecidae,41.45,328.76,63.93,3775,165,3.615,"Halley 2016 (Hendrickx, 1985)",Grunstra et al 2019,PanTHERIA,0.6483654,0.087088742
+Macaca_fuscata,Macaca_fuscata,Primates,Others,Cercopithecidae,68.55,501.57,90.99,8670,173,4.002,Barton & Capellini 2011,Barton & Capellini 2011,PanTHERIA,0.753379492,0.057851211
+Macaca_maura,Macaca_maura,Primates,Others,Cercopithecidae,32,390,72,5715,167,5,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,PanTHERIA,0.444444444,0.06824147
+Macaca_mulatta,Macaca_mulatta,Primates,Others,Cercopithecidae,45.5,471.47,92.9,6531,166,3.017,Barton & Capellini 2011,Barton & Capellini 2011,PanTHERIA,0.48977395,0.072189557
+Macaca_nemestrina,Macaca_nemestrina,Primates,Others,Cercopithecidae,66,473,106,6607,167,3.91,"Harvey & Clutton-Brock, 1985",Barton & Capellini 2011,"Harvey & Clutton-Brock, 1985",0.622641509,0.071590737
+Marmota_marmota,Marmota_marmota,Rodentia,Others,Sciuridae,1.73,29.74,16.98,4227,35,2.268,Barton & Capellini 2011,Barton & Capellini 2011,PanTHERIA,0.10188457,0.007035723
+Mastomys_natalensis,Mastomys_natalensis,Rodentia,Others,Muridae,0.14,2.77,0.72,50,23,0.165,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.194444444,0.0554
+Mesocricetus_auratus,Mesocricetus_auratus,Rodentia,Others,Cricetidae,0.06,1.8,1.12,76,16,0.132,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.053571429,0.023684211
+Muntiacus_muntjak,Muntiacus_muntjak,Artiodactyla,Others,Cervidae,50,1240,124,14997,210,0.927,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,PanTHERIA,0.403225806,0.082683203
+Mus_musculus,Mus_musculus,Rodentia,Others,Muridae,0.09,1.5,0.45,17,19,0.177,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.2,0.088235294
+Myocastor_coypus,Myocastor_coypus,Rodentia,Others,Myocastoridae,5.71,230,23,5875,132,0.513,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.24826087,0.039148936
+Myoprocta_pratti,Myoprocta_pratti,Rodentia,Others,Dasyproctidae,4.2,72,9.9,780,98,0.376,"Sacher & Staffeldt, 1974","Sacher & Staffeldt, 1974","Sacher & Staffeldt, 1974",0.424242424,0.092307692
+Notomys_alexis,Notomys_alexis,Rodentia,Others,Muridae,0.17,2.29,1.55,33,33,0.21,Barton & Capellini 2011,Barton & Capellini 2011,PanTHERIA,0.109677419,0.069393939
+Nyctalus_noctula,Nyctalus_noctula,Others,Others,Vespertilionidae,0.17,5.57,0.36,27,72,1.139,Barton & Capellini 2011,Barton & Capellini 2011,PanTHERIA,0.472222222,0.206296296
+Nycticebus_coucang,Nycticebus_coucang,Primates,Others,Lorisidae,4,50.47,10,773,193,1.81,"Harvey & Clutton-Brock, 1985",Barton & Capellini 2011,"Harvey & Clutton-Brock, 1985",0.4,0.065291074
+Orcinus_orca,Orcinus_orca,Artiodactyla,Cetaceans,Delphinidae,2999.16,158745.07,5623.41,5445027,456,13.671,Barton & Capellini 2011,Barton & Capellini 2011,PanTHERIA,0.533334756,0.029154138
+Oryctolagus_cuniculus,Oryctolagus_cuniculus,Others,Others,Leporidae,1.29,38,9.6,1439,31,0.509,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.134375,0.026407227
+Otocyon_megalotis,Otocyon_megalotis,Carnivora,Others,Canidae,7.11,120.7,28.5,4074,68,1.153,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,PanTHERIA,0.249473684,0.029626902
+Otolemur_crassicaudatus,Otolemur_crassicaudatus,Primates,Others,Galagidae,4,46.57,10.3,1172,131,1.671,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,PanTHERIA,0.388349515,0.039735495
+Otolemur_garnettii,Otolemur_garnettii,Primates,Others,Galagidae,4,49.21,7.91,729,132,1.622,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,PanTHERIA,0.505689001,0.067503429
+Ovis_dalli,Ovis_dalli,Artiodactyla,Others,Bovidae,52,3000,125,49091,150,2.278410959,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.416,0.061110998
+Pagophilus_groenlandicus,Pagophilus_groenlandicus,Carnivora,Arctoids,Phocidae,243,10048.2,442,113825,243,5.102,"Sacher & Staffeldt, 1974",Grunstra et al 2019,PanTHERIA,0.549773756,0.088277619
+Pan_paniscus,Pan_paniscus,Primates,Hominids,Hominidae,154.88,1541.7,337.25,31915,233,14.975,Barton & Capellini 2011,Barton & Capellini 2011,PanTHERIA,0.459243884,0.048306439
+Pan_troglodytes,Pan_troglodytes,Primates,Hominids,Hominidae,153.11,1527.57,387.33,38994,227,10.679,Barton & Capellini 2011,Barton & Capellini 2011,PanTHERIA,0.395296001,0.039174488
+Panthera_leo,Panthera_leo,Carnivora,Others,Felidae,49.5,1300,260,135519,108,2.706,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.190384615,0.009592751
+Panthera_pardus,Panthera_pardus,Carnivora,Others,Felidae,35.3,1570,157,39264,92,2.221,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.224840764,0.039985738
+Panthera_tigris,Panthera_tigris,Carnivora,Others,Felidae,30,1300,302,130918,104,4.171,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.099337748,0.00992988
+Papio_cynocephalus,Papio_cynocephalus,Primates,Others,Cercopithecidae,73.5,854,169.1,12848,175,7.015,"Harvey & Clutton-Brock, 1985",Grunstra et al 2019,"Harvey & Clutton-Brock, 1985",0.434654051,0.066469489
+Papio_hamadryas,Papio_hamadryas,Primates,Others,Cercopithecidae,75,890,183,12882,180,4.527,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.409836066,0.069088651
+Papio_papio,Papio_papio,Primates,Others,Cercopithecidae,53,600.38,179,12000,180,4.527,"Sacher & Staffeldt, 1974",Rogers et al 2019,"Sacher & Staffeldt, 1974",0.296089385,0.050031667
+Peromyscus_gossypinus,Peromyscus_gossypinus,Rodentia,Others,Cricetidae,0.15,2.45,0.68,27,23,0.136,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.220588235,0.090740741
+Peromyscus_leucopus,Peromyscus_leucopus,Rodentia,Others,Cricetidae,0.11,2.27,0.63,18,23,0.124,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.174603175,0.126111111
+Peromyscus_maniculatus,Peromyscus_maniculatus,Rodentia,Others,Cricetidae,0.12,1.73,0.52,19,27,0.132,Barton & Capellini 2011,Barton & Capellini 2011,PanTHERIA,0.230769231,0.091052632
+Phocoena_phocoena,Phocoena_phocoena,Artiodactyla,Others,Phocoenidae,199,6750,537,65464,333,3.709,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,PanTHERIA,0.370577281,0.103110106
+Physeter_catodon,Physeter_catodon,Artiodactyla,Cetaceans,Physeteridae,2944.42,903214.26,7244.36,14060475,473,10.781,Barton & Capellini 2011,Barton & Capellini 2011,PanTHERIA,0.406443081,0.06423782
+Plecotus_auritus,Plecotus_auritus,Others,Others,Vespertilionidae,0.1,1.42,0.23,8,65,0.927,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,PanTHERIA,0.434782609,0.1775
+Pongo_pygmaeus,Pongo_pygmaeus,Primates,Hominids,Hominidae,168.66,1603.25,364.75,37757,255,9.092,Barton & Capellini 2011,Barton & Capellini 2011,PanTHERIA,0.462398903,0.042462325
+Potos_flavus,Potos_flavus,Carnivora,Others,Procyonidae,7.73,171.84,31.2,2000,117,2.352,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,PanTHERIA,0.24775641,0.08592
+Procavia_capensis,Procavia_capensis,Others,Others,Procaviidae,7.75,200,20.5,3597,225,1.37,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.37804878,0.05560189
+Procyon_lotor,Procyon_lotor,Carnivora,Others,Procyonidae,4.8,98,41.6,6324,63,1.538,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.115384615,0.015496521
+Pteropus_giganteus,Pteropus_giganteus,Others,Others,Pteropodidae,4.4,90.32,7.43,899,167,1.083,Barton & Capellini 2011,Barton & Capellini 2011,PanTHERIA,0.592193809,0.100467186
+Rangifer_tarandus,Rangifer_tarandus,Artiodactyla,Others,Cervidae,105,3760,288,93325,225,2.079,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.364583333,0.040289312
+Rattus_norvegicus,Rattus_norvegicus,Rodentia,Others,Muridae,0.28,4.92,2.38,248,21,0.151,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.117647059,0.01983871
+Rupicapra_rupicapra,Rupicapra_rupicapra,Artiodactyla,Others,Bovidae,63.68,2250,159.96,28314,178,1.761,Barton & Capellini 2011,Barton & Capellini 2011,PanTHERIA,0.398099525,0.079465989
+Rusa_unicolor,Rusa_unicolor,Artiodactyla,Others,Cervidae,96,4440,383,145881,246,1.701,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.250652742,0.030435766
+Saguinus_oedipus,Saguinus_oedipus,Primates,Others,Callitrichidae,4.9,43.2,9,525,166,1.864,"Harvey & Clutton-Brock, 1985",Grunstra et al 2019,PanTHERIA,0.544444444,0.082285714
+Saimiri_boliviensis,Saimiri_boliviensis,Primates,Others,Cebidae,13.6,97.7,24.1,711,158,3.835,"Hailey 2016 (Brizzee & Dunlap, 1986)",Grunstra et al 2019,PanTHERIA,0.564315353,0.137412096
+Saimiri_sciureus,Saimiri_sciureus,Primates,Others,Cebidae,15.24,107.5,23.99,703,164,3.835,Barton & Capellini 2011,Barton & Capellini 2011,PanTHERIA,0.635264694,0.152916074
+Sapajus_apella,Sapajus_apella,Primates,Others,Cebidae,35.73,231.38,70.96,2489,155,4.824,Barton & Capellini 2011,Barton & Capellini 2011,PanTHERIA,0.503523112,0.092961029
+Sciurus_vulgaris,Sciurus_vulgaris,Rodentia,Others,Sciuridae,0.62,11.5,6.23,376,38,0.989,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.099518459,0.030585106
+Sigmodon_hispidus,Sigmodon_hispidus,Rodentia,Others,Cricetidae,0.51,7.2,1.18,114,27,0.138,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.43220339,0.063157895
+Stenella_attenuata,Stenella_attenuata,Artiodactyla,Cetaceans,Delphinidae,313.33,10000,779.83,57412,345,7.598,Barton & Capellini 2011,Barton & Capellini 2011,PanTHERIA,0.401792698,0.174179614
+Stenella_coeruleoalba,Stenella_coeruleoalba,Artiodactyla,Cetaceans,Delphinidae,471,11300,929.15,142103,386,10.204,"Miyazaki et al., 1981",PanTHERIA,PanTHERIA,0.506914922,0.079519785
+Sus_scrofa,Sus_scrofa,Artiodactyla,Others,Suidae,26.61,807.77,185.35,75162,115,0.961,Barton & Capellini 2011,Barton & Capellini 2011,PanTHERIA,0.143566226,0.010747053
+Talpa_europaea,Talpa_europaea,Others,Others,Talpidae,0.09,3.24,1.04,76,30,0.919,Barton & Capellini 2011,Barton & Capellini 2011,PanTHERIA,0.086538462,0.042631579
+Tapirus_indicus,Tapirus_indicus,Others,Perissodactyls,Tapiridae,131,7000,250,224905,390,3.103,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.524,0.031124252
+Tarsius_bancanus,Tarsius_bancanus,Primates,Others,Tarsiidae,2.1,23.93,2.9,279,126,1.805,Barton & Capellini 2011,Barton & Capellini 2011,PanTHERIA,0.724137931,0.085770609
+Taxidea_taxus,Taxidea_taxus,Carnivora,Others,Mustelidae,3.34,116,53,6385,60,1,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.063018868,0.01816758
+Trachypithecus_obscurus,Trachypithecus_obscurus,Primates,Others,Cercopithecidae,43,514,65.5,5800,147,4.003,"Sacher & Staffeldt, 1974",PanTHERIA,PanTHERIA,0.65648855,0.08862069
+Tragelaphus_oryx,Tragelaphus_oryx,Artiodactyla,Others,Bovidae,252,31500,480,422669,255,1.842,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.525,0.074526402
+Tupaia_glis,Tupaia_glis,Others,Others,Tupaiidae,0.53,9.2,3.15,148,46,0.336,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.168253968,0.062162162
+Tursiops_truncatus,Tursiops_truncatus,Artiodactyla,Cetaceans,Delphinidae,770,20000,1600,165577,360,9.191,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.48125,0.120789723
+Urocyon_littoralis,Urocyon_littoralis,Carnivora,Others,Canidae,3.41,100,37.3,1897,54,0.99,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,PanTHERIA,0.091420912,0.052714813
+Ursus_americanus,Ursus_americanus,Carnivora,Arctoids,Ursidae,6.43,293.99,233.88,97051,214,3.968,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,PanTHERIA,0.027492731,0.003029232
+Ursus_arctos,Ursus_arctos,Carnivora,Arctoids,Ursidae,7,361,400,111944,219,3.638,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.0175,0.003224827
+Ursus_maritimus,Ursus_maritimus,Carnivora,Arctoids,Ursidae,11.1,590,500,272270,240,5.069,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.0222,0.002166967
+Varecia_variegata,Varecia_variegata,Primates,Others,Lemuridae,10.6,107.5,34.2,3388,102,1.922,"Harvey & Clutton-Brock, 1985",Barton & Capellini 2011,"Harvey & Clutton-Brock, 1985",0.30994152,0.031729634
+Vicugna_vicugna,Vicugna_vicugna,Artiodactyla,Others,Camelidae,104,6082.92,198,37497,345,2.579,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,PanTHERIA,0.525252525,0.162224178
+Vulpes_vulpes,Vulpes_vulpes,Carnivora,Others,Canidae,3.82,105,48,3899,52,0.88,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.079583333,0.026929982
+Zalophus_californianus,Zalophus_californianus,Carnivora,Arctoids,Otariidae,180,6000,363,95719,343,5.544,"Sacher & Staffeldt, 1974",Barton & Capellini 2011,"Sacher & Staffeldt, 1974",0.495867769,0.06268348
