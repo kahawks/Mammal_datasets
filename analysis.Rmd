@@ -1,0 +1,224 @@
+---
+title: "Life History Comparisons"
+author: "Kale Hawks"
+date: "2024-01-27"
+output:
+  word_document: default
+  html_document: default
+---
+Load the packages you'll need into your R session
+
+```{r, one}
+library(tidyverse)
+library(rmarkdown)
+library(readxl)
+library(openxlsx)
+library(dplyr)
+library(lubridate)
+library(ggplot2)
+library(lme4)
+```
+
+### LOAD THE DATA 
+
+Body mass and brain size
+```{r import the data 2}
+file_name <- "https://raw.githubusercontent.com/kahawks/Mammal_datasets/main/my_life_history_data.csv"
+
+# Read the file into a data frame
+my_data <- read.csv(file_name, stringsAsFactors = FALSE)
+```
+
+
+
+Get rid of rows with missing values
+```{r filter}
+data_df <- my_data
+
+data_df <- data_df[complete.cases(data_df$Development_days), ]
+data_df <- data_df[complete.cases(data_df$Adult_brain_grams), ]
+data_df <- data_df[complete.cases(data_df$Order), ]
+data_df <- data_df[complete.cases(data_df$Adult_body_mass_grams), ]
+# Add column to separate primates from non-primates
+data_df$Taxonomy <- ifelse(data_df$Order == "Primates", "Primates", "Other.mammals")
+model_data <- unique(data_df)
+```
+
+## GLM
+
+Set up the model
+```{r set up the model data and check histograms}
+
+model_data$development.over.lifespan <- model_data$Development_days / model_data$Lifespan_days
+model_data$development.over.lifespan <- round(model_data$development.over.lifespan, 4)
+model_data$neonate_brain_fraction <- model_data$Newborn_brain_grams / model_data$Adult_brain_grams
+model_data$neonate_brain_percent <- model_data$neonate_brain_fraction * 100
+model_data$neonate_brain_percent <- round(model_data$neonate_brain_percent, 4)
+model_data$brain.over.body <- model_data$Adult_brain_grams / model_data$Adult_body_mass_grams
+model_data$brain_body_percent <- model_data$brain.over.body * 100
+
+#Look at the data distributions
+variable1 <- model_data$Adult_brain_grams
+variable2 <- model_data$development.over.lifespan
+variable3 <- model_data$Lifespan_years
+variable4 <- model_data$Adult_body_mass_grams
+variable5 <- model_data$neonate_brain_percent
+variable6 <- model_data$brain_body_percent
+variable1_dist <- hist(variable1, main = "Adult Brain Size", xlab = "Variable Values", ylab = "Frequency")
+variable2_dist <- hist(variable2, main = "Development Fraction", xlab = "Variable Values", ylab = "Frequency")
+variable3_dist <- hist(variable3, main = "Life Span Years", xlab = "Variable Values", ylab = "Frequency")
+variable4_dist <- hist(variable4, main = "Body Mass", xlab = "Variable Values", ylab = "Frequency")
+variable5_dist <- hist(variable5, main = "Newborn Brain Percent", xlab = "Variable Values", ylab = "Frequency")
+variable6_dist <- hist(variable6, main = "Brain Body Percent", xlab = "Variable Values", ylab = "Frequency")
+print(variable6_dist)
+print(variable1_dist)
+print(variable2_dist)
+print(variable3_dist)
+print(variable4_dist)
+print(variable5_dist)
+
+write.xlsx(model_data, file = "model_data.xlsx", sheetName = "Sheet1")
+```
+```{r outliers}
+#Remove outlier and look again
+model_data <- model_data[model_data$Order != "Cetacea", ]
+model_data <- model_data[model_data$Order != "Proboscidea", ]
+
+variable1 <- model_data$Adult_brain_grams
+variable2 <- model_data$development.over.lifespan
+variable3 <- model_data$Lifespan_years
+variable4 <- model_data$Adult_body_mass_grams
+variable5 <- model_data$neonate_brain_percent
+variable6 <- model_data$brain_body_percent
+variable1_dist <- hist(variable1, main = "Adult Brain Size", xlab = "Variable Values", ylab = "Frequency")
+variable2_dist <- hist(variable2, main = "Development Fraction", xlab = "Variable Values", ylab = "Frequency")
+variable3_dist <- hist(variable3, main = "Life Span Years", xlab = "Variable Values", ylab = "Frequency")
+variable4_dist <- hist(variable4, main = "Body Mass", xlab = "Variable Values", ylab = "Frequency")
+variable5_dist <- hist(variable5, main = "Newborn Brain Percent", xlab = "Variable Values", ylab = "Frequency")
+variable6_dist <- hist(variable6, main = "Brain Body Percent", xlab = "Variable Values", ylab = "Frequency")
+print(variable6_dist)
+print(variable1_dist)
+print(variable2_dist)
+print(variable3_dist)
+print(variable4_dist)
+print(variable5_dist)
+
+write.xlsx(model_data, file = "model_data.xlsx", sheetName = "Sheet1")
+```
+
+
+Set up the appropriate variables
+
+```{r variables}
+dependent_variable <- sym("development.over.lifespan")  
+y_axis <- "development time over lifespan"
+model_data <- model_data[complete.cases(model_data$Lifespan_years), ]
+model_data <- model_data[complete.cases(model_data$brain_body_percent), ]
+model_data <- model_data[complete.cases(model_data$neonate_brain_percent), ]
+model_data <- model_data[complete.cases(model_data$Adult_brain_grams), ]
+predictor1 <- sym("Lifespan_years")  
+predictor2 <- sym("brain_body_percent") 
+predictor3 <- sym("neonate_brain_percent")
+predictor4 <- sym("Adult_brain_grams")
+predictor5 <- sym("Order")
+predictor6 <- sym("Taxonomy")
+```
+
+run the glmm
+
+```{r analysis}
+# Create the formula
+formula <- as.formula(paste(dependent_variable, "~", predictor1, "+", predictor2, "+", predictor3, "+", predictor4, "+", predictor5))
+
+# Fit the GLM with gamma distribution
+glm_model <- glm(formula, data = model_data, family = Gamma(link = "log"))
+
+# Print the summary
+summary(glm_model)
+
+```
+
+Visualize the data
+
+```{r graphs 2}
+# Calculate separate regression equation coefficients for Other Mammals
+coefficients_m <- coef(lm(development.over.lifespan ~ Adult_brain_grams, data = subset(model_data, Taxonomy == "Other.mammals")))
+intercept_m <- coefficients_m[1]
+slope_m <- coefficients_m[2]
+print(slope_m)
+# Calculate separate regression equation coefficients for Primates
+coefficients_f <- coef(lm(development.over.lifespan ~ Adult_brain_grams, data = subset(model_data, Taxonomy == "Primates")))
+intercept_f <- coefficients_f[1]
+slope_f <- coefficients_f[2]
+print(slope_f)
+
+# Scatterplot with regression lines for both Other Mammals and Primates
+scatterplot <- ggplot(model_data, aes(x = Adult_brain_grams, y = development.over.lifespan)) +
+  geom_point(aes(color = Taxonomy)) +  # Specify color within geom_point
+  geom_smooth(data = subset(model_data, Taxonomy == "Other.mammals"), aes(x = Adult_brain_grams, y = development.over.lifespan), method = "lm", se = TRUE, color = "darkgreen") +
+  geom_smooth(data = subset(model_data, Taxonomy == "Primates"), aes(x = Adult_brain_grams, y = development.over.lifespan), method = "lm", se = TRUE, color = "darkorchid") +
+  labs(x = "Brain Size (g)", y = "Development Time (Fraction of lifespan)") +
+  scale_color_manual(values = c("Primates" = "#C6A9CC", "Other.mammals" = "#9BC4C2")) +
+  ggtitle("Brain Size Predicts Development Time") +  # Add title here
+  theme_minimal() +  # Start with the minimal theme
+  theme(
+    plot.background = element_rect(fill = "white"),  # White background for entire plot
+    panel.background = element_rect(fill = "white"),  # White background for plot area
+    panel.grid.major = element_blank(),  # Invisible major gridlines
+    panel.grid.minor = element_blank(),  # Invisible minor gridlines
+    axis.title.x = element_text(size = 13),  # Larger x-axis title
+    axis.title.y = element_text(size = 13),  # Larger y-axis title
+    axis.text.x = element_text(size = 11),  # Smaller x-axis labels
+    axis.text.y = element_text(size = 11),  # Smaller y-axis labels
+    plot.title = element_text(size = 15)  # Larger plot title
+  ) +
+  scale_x_continuous(breaks = seq(0, 650, by = 100)) +
+  scale_y_continuous(breaks = seq(0, .45, by = .05)) 
+
+# Display the combined plot
+print(scatterplot)
+
+# Extract R-squared values
+lm_model <- lm(development.over.lifespan ~ Adult_brain_grams, data = subset(model_data, Taxonomy == "Other.mammals"))
+rsquared_m <- summary(lm_model)$r.squared
+lf_model <- lm(development.over.lifespan ~ Adult_brain_grams, data = subset(model_data, Taxonomy == "Primates"))
+rsquared_f <- summary(lf_model)$r.squared
+print(rsquared_m)
+print(rsquared_f)
+
+simple_graph_path <- "Brain_Size_Predicts_Development_new.png"
+# Modify the width of the graph
+aspect_ratio <- 1.5  # You can adjust this value to change the width
+ggsave(filename = simple_graph_path, plot = scatterplot, width = 5 * aspect_ratio, height = 5)
+```
+
+```{r another one but with no title}
+# Scatterplot with regression lines for both Other Mammals and Primates
+scatterplot <- ggplot(model_data, aes(x = Adult_brain_grams, y = development.over.lifespan)) +
+  geom_point(aes(color = Taxonomy)) +  # Specify color within geom_point
+  geom_smooth(data = subset(model_data, Taxonomy == "Other.mammals"), aes(x = Adult_brain_grams, y = development.over.lifespan), method = "lm", se = TRUE, color = "darkgreen") +
+  geom_smooth(data = subset(model_data, Taxonomy == "Primates"), aes(x = Adult_brain_grams, y = development.over.lifespan), method = "lm", se = TRUE, color = "darkorchid") +
+  labs(x = "Brain Size (g)", y = "Development Time (Fraction of lifespan)") +
+  scale_color_manual(values = c("Primates" = "#C6A9CC", "Other.mammals" = "#9BC4C2")) +
+  theme_minimal() +  # Start with the minimal theme
+  theme(
+    plot.background = element_blank(),  # Remove background outline
+    panel.background = element_rect(fill = "white"),  # White background for plot area
+    panel.grid.major = element_blank(),  # Invisible major gridlines
+    panel.grid.minor = element_blank(),  # Invisible minor gridlines
+    axis.title.x = element_text(size = 14),  # Larger x-axis title
+    axis.title.y = element_text(size = 14),  # Larger y-axis title
+    axis.text.x = element_text(size = 12),  # Smaller x-axis labels
+    axis.text.y = element_text(size = 12)  # Smaller y-axis labels
+  ) +
+  scale_x_continuous(breaks = seq(0, 650, by = 100)) +
+  scale_y_continuous(breaks = seq(0, .35, by = .05)) 
+
+# Display the combined plot
+print(scatterplot)
+
+graph_path <- "Brain_Size_Predicts_Development_no_title_new.png"
+# Modify the width of the graph
+aspect_ratio <- 1.5  # You can adjust this value to change the width
+ggsave(filename = graph_path, plot = scatterplot, width = 5 * aspect_ratio, height = 5)
+```
