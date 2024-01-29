@@ -14,3 +14,8 @@ Gomez-Robles_2023_final_compilation comes from
 https://figshare.com/articles/dataset/The_evolution_of_human_altriciality_and_brain_development_in_comparative_context/22242724?file=42254952
 
 Gomez-Robles, Aida (2023). The evolution of human altriciality and brain development in comparative context. figshare. Dataset. https://doi.org/10.6084/m9.figshare.22242724.v1
+
+Mammal_Life-Histories from
+
+Bakewell, Adam Thomas et al. (2020), Data from: Comparing life histories across taxonomic groups in multiple dimensions: how mammal-like are insects?, Dryad, Dataset, https://doi.org/10.5061/dryad.sb307mm![image](https://github.com/kahawks/Mammal_datasets/assets/144156130/b1db7d19-9a94-424f-ad86-a2876ed1adb6)
+
